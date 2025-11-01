@@ -1,0 +1,549 @@
+|0|TurkishTest
+|1|Çeviri Notları:
+Buradaki ilk satır dosya adıyla eşleşmelidir.
+Metnin biçimlendirmesini koruyun.
+{0} metindeki bir değerdir.
+\n dinamik kodda kullanılan yeni bir satırdır.
+Oyunda metin yerine kimlikleri/anahtarları göstermek için ittifak menüsüne LANGUAGEIDTRUE yazabilirsiniz. Unity3D otomatik yazı tiplerini desteklemediğinden, kullanıcı karakterleri görüntülemek için sisteminden bir yazı tipi seçmek zorunda kalabilir, örneğin Çince.
+|2|Hasar
+|3|Hız
+|4|Ömür
+|5|Atış Hızı
+|6|Çeviklik
+|7|Toplam Modu
+|8|Ortalama Modu
+|9|Geçersiz kod biçimi.
+|10|Geçersiz kod uzunluğu.
+|11|Özel gemiler henüz açılmadı.
+|12|Bu gemi size ait değil.
+|13|Yapıştırma başarılı. Tüm eşyalara sahipsiniz.
+|14|Yapıştırma başarılı ancak {0} eşyaya sahip değilsiniz
+|15|Alan
+|16|Mermi hızı
+|17|size ait
+|18|MAKS
+|19|Zorluk\nModu AÇIK\nBonus yok
+|20|Zorluk\nModu KAPALI\nBonus aktif
+|21|Dünya görüş mesafesi
+|22|Kalıcı hasar
+|23|Yetenek Puanı
+|24|Uçuşta görüş mesafesi
+|25|Kalıcı atış hızı
+|26|Kalıcı çeviklik
+|27|Etkinleştir
+|28|Devre Dışı Bırak
+|29|Hiçbir grupla hizalanmadı.
+|30|Tapınak
+|31|Kristal
+|32|Boşluk
+|33|Önceki harita tamamlanmadı.
+|34|Zorluk modu gereklidir.
+|35|Özel gemilere izin verilmez.
+|36|Gemi
+|37|izin verilmez.
+|38|Eşya
+|39|İzin verilen {1} eşyadan {0} tanesini kullandınız.
+|40|Açıklamayı görmek için önceki haritayı açın.
+|41|Haritayı temizle.
+|42|Haritayı bitir.
+|43|{0} saniye veya daha kısa sürede bitir.
+|44|{0} blok veya daha azını yok et.
+|45|{0} blok veya daha fazlasını yok et.
+|46|{0} para veya daha fazlasını kazan.
+|47|Özel gemilere izin verilmez.
+|48|{0} eşya veya daha azını kullan.
+|49|Üzerine Yaz
+|50|Değiştir
+|51|Boş İse
+|52|Doldur
+|53|Önceki gereksinim:
+|54|Önce boyutu ve aralığı oluşturun, ardından uygula'ya basın.
+|55|Toplam blok:
+|56|Yeni bir özel harita paketi <br>Şimdi ona özel haritalar eklemeye başlayın.
+|57|ila
+|58|ve
+|59|Dalga
+|60|Toplam
+|61|Dalga Canı
+|62|=Algılanmadı=
+|63|Haritanın {0}'i, {2}AR ile {1}'si
+|64|Haritanın {0}'i, {1} yenilenme/s
+|65|Seviye
+|66|Lider
+|67|Turnuva tüm dünyalarda sona erdi
+|68|Turnuva puanlarının tümü kilitlendi
+|69|Tüm Gelir
+|70|Ne gerekiyorsa yaparak, ne pahasına olursa olsun mümkün olduğunca çok para kazanın.
+|71|Hızlı Kâr
+|72|Mümkün olan en kısa sürede hızlı bir kâr elde edin. Her milisaniye önemlidir.
+|73|Büyük Para ve Büyük Gösteri
+|74|Güçlü madencilik cephaneliğinizle geminizin üzerine Unicorium tozu yağdırın.
+|75|Büyük Rakamlar
+|76|Mermilerinizi aşırı bolluk gücüyle aşırı yükleyin.
+|77|Yıkım Havai Fişekleri
+|78|Toplarınızı ateşleyin ve asteroit patlamaları arasında kutlama yapın.
+|79|Hassas Hedefleme
+|80|İyi yerleştirilmiş birkaç savaş başlığıyla asteroitleri haritadan silin.
+|81|Mermi Fırtınası
+|82|Geldiği kadar hızlı giden bir mermi fırtınası yaratın.
+|83|Ekonomik Parçalama
+|84|Gürültülü enerji çıkışını en aza indirirken, asteroitleri nazikçe ve hızla haritadan çıkarın.
+|85|Hızlı Uçuş Eğitimi
+|86|Haritayı iyi bir zamanda bitirin ve kaptanlarınız için DP kazanın.
+|87|Doğa Karşıtının Korunması
+|88|Haritayı, cansız sakinlerin çoğu bozulmadan kalarak huzur içinde geçin.
+|89|Oyalama Saldırısı
+|90|Sivil gemi donanımlarıyla asteroitleri tehdit edin.
+|91|Harita Sonu
+|92|Süre (s)
+|93|Para
+|94|Eşyalar
+|95|Bağlantılı Eşyalar
+|96|DPS
+|97|EDPS
+|98|Mermi.
+|99|(toplam puan)
+|100|yükleniyor...
+|101|denenmedi
+|102|Turnuva sona erdi
+|103|Haftalık TP:
+|104|Sona eriyor:
+|105|Gemi başına kazanılabilir TP:
+|106|Kilitlenen oyuncu:
+|107|Kod Adı
+|108|beklemede\npuanlama
+|109|beklemede\nyeni puan
+|110|sıra:
+|111|Puanlama süresi: --:--
+|112|Sonraki sıralama güncellemesi: --:--
+|113|Oyuncular puanlanıyor...
+|114|Puanlama başlatılıyor...
+|115|Puanlama süresi:
+|116|Sıralama güncelleniyor...
+|117|Sıralama başlatılıyor...
+|118|Sonraki sıralama güncellemesi:
+|119|Turnuva Modu
+|120|\nHarita başarısız!\nİstatistikler gönderilmedi.
+|121|\nDünya istatistikleri gönderildi!\nİlk puanlama bekleniyor.
+|122|\nDünya istatistikleri gönderildi!\nTüm KPI'lar iyileştirildi.
+|123|\nDünya istatistikleri gönderildi!\nÇoğu KPI iyileştirildi.
+|124|\nDünya istatistikleri gönderilmedi!\nMevcut KPI'ları geçmedi.
+|125|Bu dünyada kazanılan ({0}) turnuva puanlarını kilitlemek ister misiniz?\n\nKilitlemeyi seçerseniz, kazanılan puanlar size yüklenecek ve gemileriniz artık bu dünyada puan alamayacaktır.
+|126|En Uzak Dalga
+|127|En Uzak Aşama
+|128|İtibar
+|129|Harita
+|130|Rekor
+|131|Harita temizlendi
+|132|İtibar:
+|133|Dalgalar Sona Erdi
+|134|Süre Doldu
+|135|Gemi Enkazı
+|136|Başarısız
+|137|Harita Geçildi
+|138|Madencilik Loncası, {1} pilot arasından size <color=#fffb12>{0}â–¡</color> verdi! Tebrikler!
+|139|Spacing Loncası, {1} pilot arasından size <color=#fffb12>{0}â–¡</color> bahşetti! Tebrikler!
+|140|Ticaret Loncası, {1} pilot arasından size <color=#fffb12>{0}â–¡</color> hediye etti! Tebrikler!
+|141|Açık içerik politikası: Lütfen isimlerde ve paylaşılabilir oyun içeriğinde açık veya rahatsız edici metinler ve semboller kullanmayın. Uygunsuz içerikleri kaldıracağız ve çevrimiçi hizmetlerinizi kısıtlayabiliriz.\n\nHile politikası: Çevrimiçi oyunu herkes için adil hale getirmek istiyoruz. Hile yapmak veya oyun mağazasını atlamak, hesabınızın sonlandırılmasıyla sonuçlanabilir.
+|142|Bağımlılıklar kontrol ediliyor...
+|143|Bağlanılıyor...
+|144|Bağlantı kesildi (güvenlik ihlali)
+|145|Evren Ağı'na erişiminiz kısıtlandı. Lütfen uygulamayı yeniden yükleyin veya işaretli kayıt dosyasını kaldırın.
+|146|Bağımlılıklar kontrolü başarısız oldu
+|147|Bağlantı kesildi
+|148|Bağlandı (geçici hesap)
+|149|Geçici bir hesap anonimdir ve {0} gün içinde kaldırılabilir! Kod adınız değiştirilemez ve bazı çevrimiçi özellikler kullanılamayabilir. İlerlemenizi kaydetmek için lütfen giriş yapın.
+|150|Hesap Oluştur ve Bağla
+|151|Bağlandı
+|152|Hesap Yasaklandı
+|153|Yasak süresi kaldı: {0}g {1}s
+|154|Kod adları 4 ile 18 karakter arasında olmalıdır.
+|155|Kod adları küfür içeremez. Saldırgan isimler kullanmak canlı hizmetler politikamıza aykırıdır.
+|156|Kod adı rezerve edilmiştir. Lütfen başka bir isim seçin.
+|157|Bağlantı hatası (GPG)
+|158|Lütfen aşağıdaki e-posta ve şifre kimlik bilgileriyle giriş yapın.
+|159|Hesap bağlanıyor...
+|160|Lütfen yukarıdaki düğme aracılığıyla Google Play Oyunlar'a manuel olarak giriş yapın. Tekrar giriş yapamazsanız sizin için anonim bir hesap oluşturulacaktır.
+|161|Bağlantı iptal edildi
+|162|Bağlantı hatası
+|163|Bağlanılıyor (geçici hesap)...
+|164|Hesap bağlama hatası (GPG)
+|165|Hesabı bağlamak için Google Play Oyunlar'a giriş yapılamıyor.
+|166|Hesap zaten bağlı
+|167|Lütfen bağlantıyı kesin ve mevcut hesabınıza giriş yapın.
+|168|Kimlik bilgileri ({0}) başarıyla bağlandı: {1}
+|169|Lütfen bir e-posta adresi ve bir şifre girin.
+|170|Hesap başarıyla oluşturuldu. Artık giriş yapabilirsiniz.
+|171|Kimlik bilgileri (e-posta-şifre) başarıyla ayrıldı.
+|172|Yeniden kimlik doğrulama hatası (PGS)
+|173|Kullanıcı başarıyla silindi.
+|173|Kullanıcı başarıyla silindi.
+|174|saat önce
+|175|Gelir
+|176|Turnuva: {0}\nSona eriyor: kapalı
+|177|Turnuva: {0}\nSona eriyor:{1}g {2}s {3}d
+|179|Ödüller Toplandı!
+|180|Toplanacak ödül yok.
+|181|(-1 ücret)
+|50000|Seç
+|50001|Güncelle
+|50002|Anladım!
+|50003|Unutmayın:
+- Seçenekler menüsünde arayüz ölçeğini/modunu değiştirebilirsiniz!
+- Sol üstteki "?" düğmesi farklı menüler için yardıma sahiptir!
+|50004|Toplam gelir çarpanı:
+|50005|Tümünü sil
+|50006|Geri
+|50007|İnşa menüsü
+|50008|Burası geminizi inşa etmek için ana menüdür. Öğeleri mermi yoluna, mermi oluşturucu ve fırlatma blokları arasına yerleştirebilirsiniz. Öğeler etkilerini mermiye yol sırasına göre uygular.
+
+İnşa düzleminin altındaki düğmeler şunlardır:
+Öğeyi kaldır, öğeyi sola döndür, öğeleri otomatik döndür, öğeyi sağa döndür, tüm öğeleri sıfırla.
+|50009|Öğe seçim menüsünü hızlıca açmak için iki kez dokunun.
+Sol üstte yakınlaştırabilir ve uzaklaştırabilirsiniz.
+Sağ üstte iki farklı donanım arasında geçiş yapabilir (en az 4 gemiye sahip olduktan sonra) ve tasarımınızı bir dizi sayı olarak kopyalayıp yapıştırabilirsiniz.
+|50010|Yakınlaştırma
+|50011|Yardım
+|50012|Profil ve Seçenekler
+|50013|Donanım
+A ve B
+|50014|Kopyala
+|50015|Yapıştır
+|50016|Öğeyi
+sil
+|50017|Sola
+döndür
+|50018|Otomatik
+döndür
+|50019|Sağa
+döndür
+|50020|Tümünü
+sil
+|50021|Gemi
+seç
+|50022|İki kez veya seç düğmesine dokunarak seçili konuma yerleştirmek istediğiniz öğeyi seçin. Öğeyi yerleştirdikten sonra, inşa menüsündeki kırmızı oklarla sola ve sağa döndürebilirsiniz.
+|50023|Fırça modu
+|50024|Fırça modunu etkinleştirmek için silme düğmesine veya seç düğmesine (katı bir blok seçiliyse) iki kez dokunabilirsiniz.
+
+Devre dışı bırakmak için sil veya seç düğmesine tekrar dokunun.
+|50025|Öğe fırça modunda.
+1. Kopyalanan öğeyi temizlemek için katı bir bloğa dokunun.
+2. Kopyalamak istediğiniz öğeye dokunun.
+3. Öğeyi kopyalamak istediğiniz her yere dokunun.
+4. Kopyalamak için yeni bir öğe seçmek için: 1. adımdan başlayın.
+|50026|Öğeleri
+kopyala
+|50027|Mermi yolu sırasıyla yürütülür. Mermi oluşturucudan başlar ve yol boyunca tek tek ilerler. Tüm öğeler, etkilerini belirli konumlarında ona uygular ve etkileri için o konumdaki merminin durumunu kullanır.
+|50028|Öğeleri
+sil
+|50029|Çarpmadan önce toplama.
+|50030|Toplamadan önce çarpma.
+|50031|Klasik ve Özel gemiler
+|50032|Uzunluk önemlidir
+|50033|Merminin yolu ne kadar uzun olursa, o kadar çok öğe yerleştirebilirsiniz. Mevcut alanı kullanarak yaratıcı olun!
+|50034|Bariz yol, yalnızca 3 öğe yerleştirilebilir.
+|50035|Bazı döngüler ve kesişimlerle 7 öğe yerleştirilebilir, bu da bu yolu önemli ölçüde daha güçlü hale getirir.
+
+Oyunun ilerleyen aşamalarında kesişen yolları kullanan öğeleriniz olacaktır.
+|50036|Sıra önemlidir
+|50037|Biri klasik gemiler, diğeri özel gemiler için olmak üzere iki inşa modu vardır.
+Özel gemiler, içine öğe yerleştirmeden önce 3x3 inşaat blokları kullanarak düzeni inşa etmeyi gerektirir. Özel gemilerin kilidi ve sonsuz dalga modu, 400. Aşamaya ulaştıktan sonra açılır.
+Özel inşa menüsünde, sol üstte iki mod arasında geçiş yapabilirsiniz.
+|50038|İnşa modlarını değiştirmek için sol üstteki klasik/özel düğmeye dokunun.
+|50039|klasik
+özel
+|50040|Dünya Aşaması 400'ün kilidini aç
+|50041|ÖĞE DONANIMI
+|50042|ÖZEL GEMİ
+|50043|KALDIR
+|50044|TÜMÜNÜ KALDIR
+|50045|Uç ve İnşa Et
+Klasik
+|50046|Uç ve İnşa Et
+Özel
+|50047|Manuel
+uçuş
+|50048|Otomatik
+uçuş
+|50049|Gemi donanım menüsüne gitmek için İnşa Et düğmesine dokunun.
+|50050|Öğe ve gemi satın almak ve kaptan kiralamak için Satın Al menüsüne gidin.
+|50051|Görevleri görmek için Keşfet düğmesine dokunun.
+|50052|İNŞA ET
+|50053|SATIN AL
+|50054|GÖREVLER
+|50055|YETENEKLER
+|50056|KEŞFET
+|50057|İnşaat blokları
+|50058|Başlangıçta bir fırlatma bloğunuz var, onu mermi oluşturucunun üstüne yerleştirin. Mermi oluşturucu her zaman sağ alt köşededir. Özel veya klasik gemilerde kullanma ve inşa etme arasında geçiş yapmak için sol üst köşedeki kırmızı düğmeyi kullanın.
+|50059|En temel özel gemi şöyle görünecektir. Sol üstte klasik gemileri mi yoksa özel gemileri mi kullanacağınız/inşa edeceğiniz arasında geçiş yapabilirsiniz.
+|50060|Aşama 400'ün kilidini aç
+|50061|YENİ
+|50062|ÖĞELER
+|50063|GEMİLER
+|50064|ÖZEL GEMİ
+BLOKLARI
+|50065|MGB MAĞAZASI
+|50066|Aşama 500'ün kilidini aç
+|50067|Aşama 600'ün kilidini aç
+|50068|Aşama 700'ün kilidini aç
+|50069|Bir Grubun kilidini aç
+|50070|Satın Al
+|50071|Merminin fırlatılmasını sağlar.
+|50072|PARA BİRİMİ
+PAKETİ
+|50073|PREMİUM
+GEMİLER
+|50074|ABONELİK
+|50075|Başarımlar
+|50076|Başarımlar başlangıç için güçlü bir destek sağlar. Her zaman birini tamamlamaya yakın olup olmadığınıza bakın.
+
+Eğer bazı başarımlarınız varsa ancak herhangi bir nedenle verilmemişse, turuncu ittifak menüsüne gidip şunu yazabilirsiniz: CHECKACHIEVEMENTS
+|50077|Toplam paranız yalnızca 64 bitlik "uzun" bir değişkene sığacak kadar olabilir. Bunu aşarsanız, paranız MAKS olarak ayarlanacaktır.
+|50078|Görev 30'un kilidini aç
+|50079|ZORLUKLAR
+|50080|MADALYALAR
+|50081|İSTATİSTİKLER
+|50082|Bir zorluğu tamamlamak
+ve mermi tasarımını
+kazanmak için bir zorluktaki
+tüm 3 görevi tamamlayın.
+|50083|Zorluk:
+|50084|Güç
+|50085|Görev 4C
+|50086|- <color=#00FFFF>Görev 19'u</color> Temizle
+- "<color=white>Luxus-Class</color>" gemisini kullan
+- Efsanevi olmayan her öğeyi kullan
+|50087|- <color=#00FFFF>Görev 14'ü</color> Bitir
+- "<color=white>Backsword</color>" gemisini kullan
+- Yalnızca iki tür öğe kullan
+|50088|- <color=#00FFFF>Görev 11'i</color> Temizle
+- "<color=white>Family cruiser</color>" gemisini kullan
+- <color=orange>Efsanevi öğeleri</color> kullanma
+- <color=#FF00FF>3456</color> veya daha fazla para kazan
+|50089|- <color=#00FFFF>Görev 22'yi</color> Temizle
+- "<color=white>Practice Launcher</color>" gemisini kullan
+- Maksimum hasar tam olarak <color=red>55</color>
+- Ateşlenen toplam atış sayısı 5'in katı olsun
+|50090|Görev 4A
+|50091|Onur
+|50092|Görev 2B
+|50093|- <color=#00FFFF>Görev 10'u</color> Bitir
+- "<color=white>Radio Seeker</color>" gemisini kullan
+- <color=orange>Efsanevi öğeleri</color> kullanma
+- Yalnızca tek bir atış yap
+|50094|Görev 1A
+|50095|Görev 1B
+|50096|- <color=#00FFFF>Görev 15'i</color> Bitir
+- "<color=white>Fighter</color>" gemisini kullan
+- <color=orange>Efsanevi öğeleri</color> kullanma
+- 13 saniye veya daha kısa sürede bitir
+|50097|- Bir <color=#00FFFF>dünyayı</color> Bitir
+- Yalnızca 4 blok veya daha azını yok et
+|50098|Görev 4B
+|50099|- <color=#00FFFF>Görev 32'yi</color> Bitir
+- "<color=white>Pirate Blade</color>" gemisini kullan
+- <color=orange>Efsanevi öğeleri</color> kullanma
+|50100|- <color=#00FFFF>Görev 56'yı</color> Bitir
+- "<color=white>Explorer</color>" gemisini kullan
+- Maksimum hasar <color=red>2</color> veya daha az
+- En az 2 blok yok et
+|50101|Açgözlülük
+|50102|- <color=cyan>Görev 37'yi</color> Bitir
+- "<color=white>Alien Seeker</color>" gemisini kullan
+- <color=#FF00FF>373</color> paradan fazla kazanma
+|50103|Görev 1C
+|50104|Görev 2A
+|50105|Görev 3C
+|50106|- <color=white>Görev 6'yı</color> Temizle
+- "<color=white>Prototype</color>" gemisini kullan
+- Tam olarak <color=#FF00FF>1200</color> para kazan
+|50107|Görev 3B
+|50108|Görev 2C
+|50109|Görev 3A
+|50110|- <color=#00FFFF>Görev 57'yi</color> Bitir
+- "<color=white>Eco Seeker</color>" gemisini kullan
+- <color=orange>Efsanevi öğeleri</color> kullanma
+- Minimum = maksimum hasar
+|50111|Çılgınlık
+|50112|Zorluk modu
+|50113|Zorluk menüsünün üstünde veya istatistik menüsünde, başarımlardan, ittifaklardan, yetenek ağacından ve kaptanlardan gelen tüm bonusları kaldıran zorluk modunu etkinleştirebilirsiniz.
+Herhangi bir zorluğu tamamlamak için modun aktif olması gerekir!
+Bir zorluktaki 3 görevin tamamını bitirirseniz, mermi tasarımını alırsınız.
+|50114|Temizlenen/açılan dünyalar:
+|50115|Temel hasar:
+|50116|Temel atış hızı:
+|50117|Kazanılan para:
+|50118|Temizlenen Dünyalar:
+|50119|Madalya hasarı:
+|50120|Ulaşılan en uzak dalga:
+|50121|Tüm Zamanlar
+|50122|Açılan dünyalar:
+|50123|Kaptan hasarı (Rütbe/Yetenek):
+|50124|Temizlenen/açılan görevler:
+|50125|Temel mermi ömrü:
+|50126|Temel mermi hızı:
+|50127|Mevcut Çalışma
+|50128|En Uzak Aşama:
+|50129|Yok edilen bloklar:
+|50130|İttifak hasarı:
+|50131|Sahip olunan gemiler:
+|50132|Oynanan Saat:Dakika:
+|50133|Toplam görev puanı:
+|50134|Temel gemi çevikliği:
+|50135|En Uzak Dalga:
+|50136|Temel gelir çarpanı:
+|50137|Açılan başarımlar:
+|50138|Toplam temel hasar:
+|50139|En yüksek hasar:
+|50140|Kazanılan maksimum <color=#ff0000ff><size=80>âœ</size></color>:
+|50141|İttifak gelir çarpanı:
+|50142|İstatistikler
+|50143|Zorluk Modu, kaptanlardan, yetenek ağacından ve başarılardan aldığınız tüm bonusları kaldırmak içindir. Bu, arkadaşlarınızla bir şey denemek istediğinizde veya başkalarıyla adil bir zorluk yaşamak istediğinizde faydalıdır. Ayrıca zorluk modundaki görevleri bitirmek için de aktif olması gerekir.
+
+Oyunun ilerleyen aşamalarında, ilerlemenizi sıfırlamanızı gerektiren gruplara katılabilir, böylece onları açabilir ve itibarlarını kazanabilirsiniz. Tüm grupları ve tüm özel öğelerini açabileceksiniz. Mevcut çalışmanın istatistikleri size böyle bir sıfırlamadan sonraki verileri gösterirken, tüm zamanlar istatistikleri size tüm çalışmaların verilerini bir arada gösterir.
+|50144|Kaptanlar
+|50145|Kaptan rütbesi, temel hasarda sabit bir artıştır.
+Aynı anda yalnızca bir Kaptan aktif olabilir.
+Köşeleri turuncu olan yetenekler pasiftir ve kaptan aktif olmasa bile çalışır.
+Bir kaptan satın alma maliyeti, 10.000'den 100.000'e ve bu şekilde devam ederek x10 artar.
+|50146|Öfke kullanan bir yetenek öğrenilirse, sol alt köşede mevcut Öfkenizi gösteren kırmızı bir sayı göreceksiniz. Öfke, yakın zamanda yok edilen blokların sayısıdır.
+|50147|Dünya Aşaması 40'ın kilidini aç
+|50148|YETENEKLER
+|50149|İTTİFAK
+|50150|KAPTANLAR
+|50151|Rütbe
+|50152|ek temel hasardır
+|50153|Terfi Ettir
+|50154|İşe Al
+|50155|Bir kaptanla blokları yok etmek deneyimi artırır. Blok başına Kaptan Rütbesi'ne kadar, %10 Görev, %10 Dünya Aşaması veya %1 Dalga Mesafesi deneyimi kazanırsınız.
+|50156|Sonraki yetenek:
+|50157|Deneyim
+|50158|+<color=#00FFFF>2</color>% uçuşta görüş mesafesi
+|50159|Kilidi Aç
+|50160|Yetenek ağacı
+|50161|Yetenek ağacında belirli öğelerin etkisini iyileştirebilirsiniz. Yetenek ağacı Aşama 40'ta görünür olur, ilk yetenek puanını Aşama 50'de ve ondan sonra her 50 Aşamada bir yetenek puanı kazanırsınız. İlk puan her zaman ortaya ayarlanır.
+Yetenek puanlarını iade etmek sarı Kareler gerektirir ve maliyet, şimdiye kadar açtığınız toplam yetenek puanına eşittir.
+|50162|İlk yetenek puanı her zaman ortaya ayarlanır. Burada Aşama 578'e ulaşıldı, bu nedenle 11 yetenek puanı açıldı. Maksimum 20, Aşama 1000'dedir.
+Aşama 250, kullanılacak ikinci bir ağacın kilidini açar.
+|50163|İade maliyetleri, toplam açılan yetenek puanlarına eşittir. Yalnızca bir yolun sonu iade edilebilir, böylece başlangıca her zaman bir bağlantı kalır. Başlangıç iade edilemez.
+|50164|Ayarla
+|50165|İade Et
+|50166|Aşama
+|50167|Tümünü İade Et
+|50168|Tümünü iade et
+|50169|İttifak menüsü
+|50170|İttifakları imza topladığınız bir kitap olarak düşünün.
+
+Yeni bir üye almak için şu adımları izleyin:
+1. Birine davet kodunuzu verin.
+2. Bu kişi size bir onay kodu oluşturur.
+3. Onay kodunu yapıştırırsınız.
+
+|50171|1. Onlara ilk satırdaki davet kodunuzu veriyorsunuz.
+
+
+
+3. Bu kodu ikinci satıra yapıştırıyorsunuz ve yeni bir üye kazanıyorsunuz.
+|50172|
+
+2. Onlar sizin kodunuzu giriyor. İkinci satırda yeni bir kod görünecektir. Onlar bu kodu size veriyor.
+|50173|Özel komutlar
+|50174|Kodlar "Bir üye davet et" bölümünün 2. satırına girilir.
+
+CHECKACHIEVEMENTS
+Gemi ve kaptan başarımlarını yeniden kontrol eder
+
+RESETMAXDMG
+İstatistiklerdeki maksimum hasar sayısını sıfırlar
+
+RESETRANKVENUS
+Venüs'ün rütbesini 1'e ayarlar, ismi diğer kaptan isimleriyle değiştirin
+
+USECLASSICSHIP
+Özel gemilerde takılı kalındığında klasik gemilere geçişi zorlar
+
+RENDERINSTANCEDTRUE
+Modern donanımlarda daha iyi performans. Devre dışı bırakmak için TRUE'yu FALSE ile değiştirin
+
+RESETWORLDS
+Dünya haritasındaki tüm ilerlemeyi sıfırlar. Geri alınamaz!
+
+DELETEOWNLEADERBOARD
+Tekrar skor tablosunu açana kadar skor tablosundaki kendi girişinizi kaldırır
+
+SAVELOCATION
+Yerel kayıt dosyasının konumunu açar. (Tüm platformlarda çalışmayabilir)
+
+UNSELECTALLTALENTS
+Tüm kaptan yeteneklerinin seçimini kaldırır (Kilitleri açık kalır)
+|50175|â† kaydır â†’
+|50176|â† Topluluktan yardım alın!
+|50177|İttifaktan Bonus
+|50178|Üye:
+|50179|Hasar:
+|50180|Gelir:
+|50181|<color=#ffff00ff><size=80>â–¡</size></color> uçuş sonrası şansı:
+|50182|Sonraki üye:
+|50183|Bir davet kabul et
+|50184|1. Onların davet kodunu girin
+|50185|Onun davet kodunu girin ...
+|50186|2. Onlara onay kodunuzu iletin
+|50187|Oluşturulan onay kodunu kopyala ...
+|50188|Bir üye davet et
+|50189|1. Onlara davet kodunuzu iletin
+|50190|Davet kodunuzu kopyala ...
+|50191|2. Onların onay kodunu girin
+|50192|Onun onay kodunu girin
+|50193|ÖZEL HARİTALAR
+|50194|GÖREVLER
+|50195|DÜNYA HARİTASI
+|50196|DALGALAR
+|50197|KLASİK
+|50198|HİPERYON
+TAPINAĞI
+|50199|KRİSTAL
+KONSORSİYUMU
+|50200|BOŞLUK
+LEJYONLARI
+|50201|İlk harita.
+|50202|Uç
+|50203|Boşluk Lejyonları
+|50204|Hiperyon Tapınağı
+|50205|Kristal Konsorsiyumu
+|50206|kat genel <color=#FF00FF>$</color> bonusu
+|50207|uçuş sonrası <color=#ffff00ff><size=80>â–¡</size></color> şansı
+|50208|3 saatlik bonusu açmak için reklam izle
+|50209|Görevler
+|50210|İlk hedefiniz tüm görevleri bitirmektir. Hiçbir blokla çarpışmazsanız görevi bitirir ve bir sonraki görevin kilidini açarsınız. Bir görevi temizlerseniz, sarı bir kare ile işaretlenecektir.
+
+Daha sonra dünya haritasının kilidini açtığınızda, tüm görevleri tamamladıktan sonra dünya Aşama 300'e kadar kısayol kullanma seçeneğiniz olacaktır.
+|50211|Görev 0 temizlendi, görev 0-3 açıldı.
+
+Oyunun ilerleyen aşamalarında, özel öğelerin ve gemilerin kilidini açabileceğiniz çok zor görevleri açan gruplara katılabileceksiniz.
+|50212|[Misafir]
+|50213|Görevlere ve tüccara erişmek için grupla uyumlu olmanız gerekir.
+|50214|İtibar Tüccarı
+|50215|[Tüccar Devre Dışı]
+|50216|Kalıcı olarak açıldı!
+|50217|Açılanlar:
+|50218|Harita Paketleri
+|50219|Paket Kimliği
+|50220|İsim
+|50221|Haritalar
+|50222|Açıklama
+|50223|Hedefler
+|50224|Başarısız
+Kısıtlama
+|50225|İzin Verilen
+Gemiler
+|50226|İzin Verilen
+Öğeler
+|50227|İzin Verilen
+Kaptanlar
+|50228|Diğer
+Kısıtlamalar
+|50229|Yarattıklarınızı MGB topluluğunda paylaşın!
+|50230|Harita Düzenleyici
+|50231|Sil
+|50232|Panodan İçe Aktar
+|50233|Emin misiniz?
