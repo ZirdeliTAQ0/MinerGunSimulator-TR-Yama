@@ -1,0 +1,2119 @@
+|0|TurkishWNT
+|1|ceviri Notlari:
+Buradaki ilk satir dosya adiyla eslesmelidir.
+Metnin bicimlendirmesini koruyun.
+{0} metindeki bir degerdir.
+\n dinamik kodda kullanilan yeni bir satirdir.
+Oyunda metin yerine kimlikleri/anahtarlari gostermek icin ittifak menusune LANGUAGEIDTRUE yazabilirsiniz. Unity3D otomatik yazi tiplerini desteklemediginden, kullanici karakterleri goruntulemek icin sisteminden bir yazi tipi secmek zorunda kalabilir, ornegin cince.
+|2|Hasar
+|3|Hiz
+|4|omur
+|5|Atis Hizi
+|6|ceviklik
+|7|Toplam Modu
+|8|Ortalama Modu
+|9|Gecersiz kod bicimi.
+|10|Gecersiz kod uzunlugu.
+|11|ozel gemiler henuz acilmadi.
+|12|Bu gemi size ait degil.
+|13|Yapistirma basarili. Tum esyalara sahipsiniz.
+|14|Yapistirma basarili ancak {0} esyaya sahip degilsiniz
+|15|Alan
+|16|Mermi hizi
+|17|size ait
+|18|MAKS
+|19|Zorluk\nModu AcIK\nBonus yok
+|20|Zorluk\nModu KAPALI\nBonus aktif
+|21|Dunya gorus mesafesi
+|22|Kalici hasar
+|23|Yetenek Puani
+|24|Ucusta gorus mesafesi
+|25|Kalici atis hizi
+|26|Kalici ceviklik
+|27|Etkinlestir
+|28|Devre Disi Birak
+|29|Hicbir grupla hizalanmadi.
+|30|Tapinak
+|31|Kristal
+|32|Bosluk
+|33|onceki harita tamamlanmadi.
+|34|Zorluk modu gereklidir.
+|35|ozel gemilere izin verilmez.
+|36|Gemi
+|37|izin verilmez.
+|38|Esya
+|39|Izin verilen {1} esyadan {0} tanesini kullandiniz.
+|40|Aciklamayi gormek icin onceki haritayi acin.
+|41|Haritayi temizle.
+|42|Haritayi bitir.
+|43|{0} saniye veya daha kisa surede bitir.
+|44|{0} blok veya daha azini yok et.
+|45|{0} blok veya daha fazlasini yok et.
+|46|{0} para veya daha fazlasini kazan.
+|47|ozel gemilere izin verilmez.
+|48|{0} esya veya daha azini kullan.
+|49|uzerine Yaz
+|50|Degistir
+|51|Bos Ise
+|52|Doldur
+|53|onceki gereksinim:
+|54|once boyutu ve araligi olusturun, ardindan uygula'ya basin.
+|55|Toplam blok:
+|56|Yeni bir ozel harita paketi <br>simdi ona ozel haritalar eklemeye baslayin.
+|57|ila
+|58|ve
+|59|Dalga
+|60|Toplam
+|61|Dalga Cani
+|62|=Algilanmadi=
+|63|Haritanin {0}'i, {2}AR ile {1}'si
+|64|Haritanin {0}'i, {1} yenilenme/s
+|65|Seviye
+|66|Lider
+|67|Turnuva tum dunyalarda sona erdi
+|68|Turnuva puanlarinin tumu kilitlendi
+|69|Tum Gelir
+|70|Ne gerekiyorsa yaparak, ne pahasina olursa olsun mumkun oldugunca cok para kazanin.
+|71|Hizli Kâr
+|72|Mumkun olan en kisa surede hizli bir kâr elde edin. Her milisaniye onemlidir.
+|73|Buyuk Para ve Buyuk Gosteri
+|74|Guclu madencilik cephaneliginizle geminizin uzerine Unicorium tozu yagdirin.
+|75|Buyuk Rakamlar
+|76|Mermilerinizi asiri bolluk gucuyle asiri yukleyin.
+|77|Yikim Havai Fisekleri
+|78|Toplarinizi atesleyin ve asteroit patlamalari arasinda kutlama yapin.
+|79|Hassas Hedefleme
+|80|Iyi yerlestirilmis birkac savas basligiyla asteroitleri haritadan silin.
+|81|Mermi Firtinasi
+|82|Geldigi kadar hizli giden bir mermi firtinasi yaratin.
+|83|Ekonomik Parcalama
+|84|Gurultulu enerji cikisini en aza indirirken, asteroitleri nazikce ve hizla haritadan cikarin.
+|85|Hizli Ucus Egitimi
+|86|Haritayi iyi bir zamanda bitirin ve kaptanlariniz icin DP kazanin.
+|87|Doga Karsitinin Korunmasi
+|88|Haritayi, cansiz sakinlerin cogu bozulmadan kalarak huzur icinde gecin.
+|89|Oyalama Saldirisi
+|90|Sivil gemi donanimlariyla asteroitleri tehdit edin.
+|91|Harita Sonu
+|92|Sure (s)
+|93|Para
+|94|Esyalar
+|95|Baglantili Esyalar
+|96|DPS
+|97|EDPS
+|98|Mermi.
+|99|(toplam puan)
+|100|yukleniyor...
+|101|denenmedi
+|102|Turnuva sona erdi
+|103|Haftalik TP:
+|104|Sona eriyor:
+|105|Gemi basina kazanilabilir TP:
+|106|Kilitlenen oyuncu:
+|107|Kod Adi
+|108|beklemede\npuanlama
+|109|beklemede\nyeni puan
+|110|sira:
+|111|Puanlama suresi: --:--
+|112|Sonraki siralama guncellemesi: --:--
+|113|Oyuncular puanlaniyor...
+|114|Puanlama baslatiliyor...
+|115|Puanlama suresi:
+|116|Siralama guncelleniyor...
+|117|Siralama baslatiliyor...
+|118|Sonraki siralama guncellemesi:
+|119|Turnuva Modu
+|120|\nHarita basarisiz!\nIstatistikler gonderilmedi.
+|121|\nDunya istatistikleri gonderildi!\nIlk puanlama bekleniyor.
+|122|\nDunya istatistikleri gonderildi!\nTum KPI'lar iyilestirildi.
+|123|\nDunya istatistikleri gonderildi!\ncogu KPI iyilestirildi.
+|124|\nDunya istatistikleri gonderilmedi!\nMevcut KPI'lari gecmedi.
+|125|Bu dunyada kazanilan ({0}) turnuva puanlarini kilitlemek ister misiniz?\n\nKilitlemeyi secerseniz, kazanilan puanlar size yuklenecek ve gemileriniz artik bu dunyada puan alamayacaktir.
+|126|En Uzak Dalga
+|127|En Uzak Asama
+|128|Itibar
+|129|Harita
+|130|Rekor
+|131|Harita temizlendi
+|132|Itibar:
+|133|Dalgalar Sona Erdi
+|134|Sure Doldu
+|135|Gemi Enkazi
+|136|Basarisiz
+|137|Harita Gecildi
+|138|Madencilik Loncasi, {1} pilot arasindan size <color=#fffb12>{0}â–¡</color> verdi! Tebrikler!
+|139|Spacing Loncasi, {1} pilot arasindan size <color=#fffb12>{0}â–¡</color> bahsetti! Tebrikler!
+|140|Ticaret Loncasi, {1} pilot arasindan size <color=#fffb12>{0}â–¡</color> hediye etti! Tebrikler!
+|141|Acik icerik politikasi: Lutfen isimlerde ve paylasilabilir oyun iceriginde acik veya rahatsiz edici metinler ve semboller kullanmayin. Uygunsuz icerikleri kaldiracagiz ve cevrimici hizmetlerinizi kisitlayabiliriz.\n\nHile politikasi: cevrimici oyunu herkes icin adil hale getirmek istiyoruz. Hile yapmak veya oyun magazasini atlamak, hesabinizin sonlandirilmasiyla sonuclanabilir.
+|142|Bagimliliklar kontrol ediliyor...
+|143|Baglaniliyor...
+|144|Baglanti kesildi (guvenlik ihlali)
+|145|Evren Agi'na erisiminiz kisitlandi. Lutfen uygulamayi yeniden yukleyin veya isaretli kayit dosyasini kaldirin.
+|146|Bagimliliklar kontrolu basarisiz oldu
+|147|Baglanti kesildi
+|148|Baglandi (gecici hesap)
+|149|Gecici bir hesap anonimdir ve {0} gun icinde kaldirilabilir! Kod adiniz degistirilemez ve bazi cevrimici ozellikler kullanilamayabilir. Ilerlemenizi kaydetmek icin lutfen giris yapin.
+|150|Hesap Olustur ve Bagla
+|151|Baglandi
+|152|Hesap Yasaklandi
+|153|Yasak suresi kaldi: {0}g {1}s
+|154|Kod adlari 4 ile 18 karakter arasinda olmalidir.
+|155|Kod adlari kufur iceremez. Saldirgan isimler kullanmak canli hizmetler politikamiza aykiridir.
+|156|Kod adi rezerve edilmistir. Lutfen baska bir isim secin.
+|157|Baglanti hatasi (GPG)
+|158|Lutfen asagidaki e-posta ve sifre kimlik bilgileriyle giris yapin.
+|159|Hesap baglaniyor...
+|160|Lutfen yukaridaki dugme araciligiyla Google Play Oyunlar'a manuel olarak giris yapin. Tekrar giris yapamazsaniz sizin icin anonim bir hesap olusturulacaktir.
+|161|Baglanti iptal edildi
+|162|Baglanti hatasi
+|163|Baglaniliyor (gecici hesap)...
+|164|Hesap baglama hatasi (GPG)
+|165|Hesabi baglamak icin Google Play Oyunlar'a giris yapilamiyor.
+|166|Hesap zaten bagli
+|167|Lutfen baglantiyi kesin ve mevcut hesabiniza giris yapin.
+|168|Kimlik bilgileri ({0}) basariyla baglandi: {1}
+|169|Lutfen bir e-posta adresi ve bir sifre girin.
+|170|Hesap basariyla olusturuldu. Artik giris yapabilirsiniz.
+|171|Kimlik bilgileri (e-posta-sifre) basariyla ayrildi.
+|172|Yeniden kimlik dogrulama hatasi (PGS)
+|173|Kullanici basariyla silindi.
+|173|Kullanici basariyla silindi.
+|174|saat once
+|175|Gelir
+|176|Turnuva: {0}\nSona eriyor: kapali
+|177|Turnuva: {0}\nSona eriyor:{1}g {2}s {3}d
+|179|oduller Toplandi!
+|180|Toplanacak odul yok.
+|181|(-1 ucret)
+|50000|Sec
+|50001|Guncelle
+|50002|Anladim!
+|50003|Unutmayin:
+- Secenekler menusunde arayuz olcegini/modunu degistirebilirsiniz!
+- Sol ustteki "?" dugmesi farkli menuler icin yardima sahiptir!
+|50004|Toplam gelir carpani:
+|50005|Tumunu sil
+|50006|Geri
+|50007|Insa menusu
+|50008|Burasi geminizi insa etmek icin ana menudur. ogeleri mermi yoluna, mermi olusturucu ve firlatma bloklari arasina yerlestirebilirsiniz. ogeler etkilerini mermiye yol sirasina gore uygular.
+
+Insa duzleminin altindaki dugmeler sunlardir:
+ogeyi kaldir, ogeyi sola dondur, ogeleri otomatik dondur, ogeyi saga dondur, tum ogeleri sifirla.
+|50009|oge secim menusunu hizlica acmak icin iki kez dokunun.
+Sol ustte yakinlastirabilir ve uzaklastirabilirsiniz.
+Sag ustte iki farkli donanim arasinda gecis yapabilir (en az 4 gemiye sahip olduktan sonra) ve tasariminizi bir dizi sayi olarak kopyalayip yapistirabilirsiniz.
+|50010|Yakinlastirma
+|50011|Yardim
+|50012|Profil ve Secenekler
+|50013|Donanim
+A ve B
+|50014|Kopyala
+|50015|Yapistir
+|50016|ogeyi
+sil
+|50017|Sola
+dondur
+|50018|Otomatik
+dondur
+|50019|Saga
+dondur
+|50020|Tumunu
+sil
+|50021|Gemi
+sec
+|50022|Iki kez veya sec dugmesine dokunarak secili konuma yerlestirmek istediginiz ogeyi secin. ogeyi yerlestirdikten sonra, insa menusundeki kirmizi oklarla sola ve saga dondurebilirsiniz.
+|50023|Firca modu
+|50024|Firca modunu etkinlestirmek icin silme dugmesine veya sec dugmesine (kati bir blok seciliyse) iki kez dokunabilirsiniz.
+
+Devre disi birakmak icin sil veya sec dugmesine tekrar dokunun.
+|50025|oge firca modunda.
+1. Kopyalanan ogeyi temizlemek icin kati bir bloga dokunun.
+2. Kopyalamak istediginiz ogeye dokunun.
+3. ogeyi kopyalamak istediginiz her yere dokunun.
+4. Kopyalamak icin yeni bir oge secmek icin: 1. adimdan baslayin.
+|50026|ogeleri
+kopyala
+|50027|Mermi yolu sirasiyla yurutulur. Mermi olusturucudan baslar ve yol boyunca tek tek ilerler. Tum ogeler, etkilerini belirli konumlarinda ona uygular ve etkileri icin o konumdaki merminin durumunu kullanir.
+|50028|ogeleri
+sil
+|50029|carpmadan once toplama.
+|50030|Toplamadan once carpma.
+|50031|Klasik ve ozel gemiler
+|50032|Uzunluk onemlidir
+|50033|Merminin yolu ne kadar uzun olursa, o kadar cok oge yerlestirebilirsiniz. Mevcut alani kullanarak yaratici olun!
+|50034|Bariz yol, yalnizca 3 oge yerlestirilebilir.
+|50035|Bazi donguler ve kesisimlerle 7 oge yerlestirilebilir, bu da bu yolu onemli olcude daha guclu hale getirir.
+
+Oyunun ilerleyen asamalarinda kesisen yollari kullanan ogeleriniz olacaktir.
+|50036|Sira onemlidir
+|50037|Biri klasik gemiler, digeri ozel gemiler icin olmak uzere iki insa modu vardir.
+ozel gemiler, icine oge yerlestirmeden once 3x3 insaat bloklari kullanarak duzeni insa etmeyi gerektirir. ozel gemilerin kilidi ve sonsuz dalga modu, 400. Asamaya ulastiktan sonra acilir.
+ozel insa menusunde, sol ustte iki mod arasinda gecis yapabilirsiniz.
+|50038|Insa modlarini degistirmek icin sol ustteki klasik/ozel dugmeye dokunun.
+|50039|klasik
+ozel
+|50040|Dunya Asamasi 400'un kilidini ac
+|50041|ogE DONANIMI
+|50042|oZEL GEMI
+|50043|KALDIR
+|50044|TuMuNu KALDIR
+|50045|Uc ve Insa Et
+Klasik
+|50046|Uc ve Insa Et
+ozel
+|50047|Manuel
+ucus
+|50048|Otomatik
+ucus
+|50049|Gemi donanim menusune gitmek icin Insa Et dugmesine dokunun.
+|50050|oge ve gemi satin almak ve kaptan kiralamak icin Satin Al menusune gidin.
+|50051|Gorevleri gormek icin Kesfet dugmesine dokunun.
+|50052|INsA ET
+|50053|SATIN AL
+|50054|GoREVLER
+|50055|YETENEKLER
+|50056|KEsFET
+|50057|Insaat bloklari
+|50058|Baslangicta bir firlatma blogunuz var, onu mermi olusturucunun ustune yerlestirin. Mermi olusturucu her zaman sag alt kosededir. ozel veya klasik gemilerde kullanma ve insa etme arasinda gecis yapmak icin sol ust kosedeki kirmizi dugmeyi kullanin.
+|50059|En temel ozel gemi soyle gorunecektir. Sol ustte klasik gemileri mi yoksa ozel gemileri mi kullanacaginiz/insa edeceginiz arasinda gecis yapabilirsiniz.
+|50060|Asama 400'un kilidini ac
+|50061|YENI
+|50062|ogELER
+|50063|GEMILER
+|50064|oZEL GEMI
+BLOKLARI
+|50065|MGB MAgAZASI
+|50066|Asama 500'un kilidini ac
+|50067|Asama 600'un kilidini ac
+|50068|Asama 700'un kilidini ac
+|50069|Bir Grubun kilidini ac
+|50070|Satin Al
+|50071|Merminin firlatilmasini saglar.
+|50072|PARA BIRIMI
+PAKETI
+|50073|PREMIUM
+GEMILER
+|50074|ABONELIK
+|50075|Basarimlar
+|50076|Basarimlar baslangic icin guclu bir destek saglar. Her zaman birini tamamlamaya yakin olup olmadiginiza bakin.
+
+Eger bazi basarimlariniz varsa ancak herhangi bir nedenle verilmemisse, turuncu ittifak menusune gidip sunu yazabilirsiniz: CHECKACHIEVEMENTS
+|50077|Toplam paraniz yalnizca 64 bitlik "uzun" bir degiskene sigacak kadar olabilir. Bunu asarsaniz, paraniz MAKS olarak ayarlanacaktir.
+|50078|Gorev 30'un kilidini ac
+|50079|ZORLUKLAR
+|50080|MADALYALAR
+|50081|ISTATISTIKLER
+|50082|Bir zorlugu tamamlamak
+ve mermi tasarimini
+kazanmak icin bir zorluktaki
+tum 3 gorevi tamamlayin.
+|50083|Zorluk:
+|50084|Guc
+|50085|Gorev 4C
+|50086|- <color=#00FFFF>Gorev 19'u</color> Temizle
+- "<color=white>Luxus-Class</color>" gemisini kullan
+- Efsanevi olmayan her ogeyi kullan
+|50087|- <color=#00FFFF>Gorev 14'u</color> Bitir
+- "<color=white>Backsword</color>" gemisini kullan
+- Yalnizca iki tur oge kullan
+|50088|- <color=#00FFFF>Gorev 11'i</color> Temizle
+- "<color=white>Family cruiser</color>" gemisini kullan
+- <color=orange>Efsanevi ogeleri</color> kullanma
+- <color=#FF00FF>3456</color> veya daha fazla para kazan
+|50089|- <color=#00FFFF>Gorev 22'yi</color> Temizle
+- "<color=white>Practice Launcher</color>" gemisini kullan
+- Maksimum hasar tam olarak <color=red>55</color>
+- Ateslenen toplam atis sayisi 5'in kati olsun
+|50090|Gorev 4A
+|50091|Onur
+|50092|Gorev 2B
+|50093|- <color=#00FFFF>Gorev 10'u</color> Bitir
+- "<color=white>Radio Seeker</color>" gemisini kullan
+- <color=orange>Efsanevi ogeleri</color> kullanma
+- Yalnizca tek bir atis yap
+|50094|Gorev 1A
+|50095|Gorev 1B
+|50096|- <color=#00FFFF>Gorev 15'i</color> Bitir
+- "<color=white>Fighter</color>" gemisini kullan
+- <color=orange>Efsanevi ogeleri</color> kullanma
+- 13 saniye veya daha kisa surede bitir
+|50097|- Bir <color=#00FFFF>dunyayi</color> Bitir
+- Yalnizca 4 blok veya daha azini yok et
+|50098|Gorev 4B
+|50099|- <color=#00FFFF>Gorev 32'yi</color> Bitir
+- "<color=white>Pirate Blade</color>" gemisini kullan
+- <color=orange>Efsanevi ogeleri</color> kullanma
+|50100|- <color=#00FFFF>Gorev 56'yi</color> Bitir
+- "<color=white>Explorer</color>" gemisini kullan
+- Maksimum hasar <color=red>2</color> veya daha az
+- En az 2 blok yok et
+|50101|Acgozluluk
+|50102|- <color=cyan>Gorev 37'yi</color> Bitir
+- "<color=white>Alien Seeker</color>" gemisini kullan
+- <color=#FF00FF>373</color> paradan fazla kazanma
+|50103|Gorev 1C
+|50104|Gorev 2A
+|50105|Gorev 3C
+|50106|- <color=white>Gorev 6'yi</color> Temizle
+- "<color=white>Prototype</color>" gemisini kullan
+- Tam olarak <color=#FF00FF>1200</color> para kazan
+|50107|Gorev 3B
+|50108|Gorev 2C
+|50109|Gorev 3A
+|50110|- <color=#00FFFF>Gorev 57'yi</color> Bitir
+- "<color=white>Eco Seeker</color>" gemisini kullan
+- <color=orange>Efsanevi ogeleri</color> kullanma
+- Minimum = maksimum hasar
+|50111|cilginlik
+|50112|Zorluk modu
+|50113|Zorluk menusunun ustunde veya istatistik menusunde, basarimlardan, ittifaklardan, yetenek agacindan ve kaptanlardan gelen tum bonuslari kaldiran zorluk modunu etkinlestirebilirsiniz.
+Herhangi bir zorlugu tamamlamak icin modun aktif olmasi gerekir!
+Bir zorluktaki 3 gorevin tamamini bitirirseniz, mermi tasarimini alirsiniz.
+|50114|Temizlenen/acilan dunyalar:
+|50115|Temel hasar:
+|50116|Temel atis hizi:
+|50117|Kazanilan para:
+|50118|Temizlenen Dunyalar:
+|50119|Madalya hasari:
+|50120|Ulasilan en uzak dalga:
+|50121|Tum Zamanlar
+|50122|Acilan dunyalar:
+|50123|Kaptan hasari (Rutbe/Yetenek):
+|50124|Temizlenen/acilan gorevler:
+|50125|Temel mermi omru:
+|50126|Temel mermi hizi:
+|50127|Mevcut calisma
+|50128|En Uzak Asama:
+|50129|Yok edilen bloklar:
+|50130|Ittifak hasari:
+|50131|Sahip olunan gemiler:
+|50132|Oynanan Saat:Dakika:
+|50133|Toplam gorev puani:
+|50134|Temel gemi cevikligi:
+|50135|En Uzak Dalga:
+|50136|Temel gelir carpani:
+|50137|Acilan basarimlar:
+|50138|Toplam temel hasar:
+|50139|En yuksek hasar:
+|50140|Kazanilan maksimum <color=#ff0000ff><size=80>âœ</size></color>:
+|50141|Ittifak gelir carpani:
+|50142|Istatistikler
+|50143|Zorluk Modu, kaptanlardan, yetenek agacindan ve basarilardan aldiginiz tum bonuslari kaldirmak icindir. Bu, arkadaslarinizla bir sey denemek istediginizde veya baskalariyla adil bir zorluk yasamak istediginizde faydalidir. Ayrica zorluk modundaki gorevleri bitirmek icin de aktif olmasi gerekir.
+
+Oyunun ilerleyen asamalarinda, ilerlemenizi sifirlamanizi gerektiren gruplara katilabilir, boylece onlari acabilir ve itibarlarini kazanabilirsiniz. Tum gruplari ve tum ozel ogelerini acabileceksiniz. Mevcut calismanin istatistikleri size boyle bir sifirlamadan sonraki verileri gosterirken, tum zamanlar istatistikleri size tum calismalarin verilerini bir arada gosterir.
+|50144|Kaptanlar
+|50145|Kaptan rutbesi, temel hasarda sabit bir artistir.
+Ayni anda yalnizca bir Kaptan aktif olabilir.
+Koseleri turuncu olan yetenekler pasiftir ve kaptan aktif olmasa bile calisir.
+Bir kaptan satin alma maliyeti, 10.000'den 100.000'e ve bu sekilde devam ederek x10 artar.
+|50146|ofke kullanan bir yetenek ogrenilirse, sol alt kosede mevcut ofkenizi gosteren kirmizi bir sayi goreceksiniz. ofke, yakin zamanda yok edilen bloklarin sayisidir.
+|50147|Dunya Asamasi 40'in kilidini ac
+|50148|YETENEKLER
+|50149|ITTIFAK
+|50150|KAPTANLAR
+|50151|Rutbe
+|50152|ek temel hasardir
+|50153|Terfi Ettir
+|50154|Ise Al
+|50155|Bir kaptanla bloklari yok etmek deneyimi artirir. Blok basina Kaptan Rutbesi'ne kadar, %10 Gorev, %10 Dunya Asamasi veya %1 Dalga Mesafesi deneyimi kazanirsiniz.
+|50156|Sonraki yetenek:
+|50157|Deneyim
+|50158|+<color=#00FFFF>2</color>% ucusta gorus mesafesi
+|50159|Kilidi Ac
+|50160|Yetenek agaci
+|50161|Yetenek agacinda belirli ogelerin etkisini iyilestirebilirsiniz. Yetenek agaci Asama 40'ta gorunur olur, ilk yetenek puanini Asama 50'de ve ondan sonra her 50 Asamada bir yetenek puani kazanirsiniz. Ilk puan her zaman ortaya ayarlanir.
+Yetenek puanlarini iade etmek sari Kareler gerektirir ve maliyet, simdiye kadar actiginiz toplam yetenek puanina esittir.
+|50162|Ilk yetenek puani her zaman ortaya ayarlanir. Burada Asama 578'e ulasildi, bu nedenle 11 yetenek puani acildi. Maksimum 20, Asama 1000'dedir.
+Asama 250, kullanilacak ikinci bir agacin kilidini acar.
+|50163|Iade maliyetleri, toplam acilan yetenek puanlarina esittir. Yalnizca bir yolun sonu iade edilebilir, boylece baslangica her zaman bir baglanti kalir. Baslangic iade edilemez.
+|50164|Ayarla
+|50165|Iade Et
+|50166|Asama
+|50167|Tumunu Iade Et
+|50168|Tumunu iade et
+|50169|Ittifak menusu
+|50170|Ittifaklari imza topladiginiz bir kitap olarak dusunun.
+
+Yeni bir uye almak icin su adimlari izleyin:
+1. Birine davet kodunuzu verin.
+2. Bu kisi size bir onay kodu olusturur.
+3. Onay kodunu yapistirirsiniz.
+
+|50171|1. Onlara ilk satirdaki davet kodunuzu veriyorsunuz.
+
+
+
+3. Bu kodu ikinci satira yapistiriyorsunuz ve yeni bir uye kazaniyorsunuz.
+|50172|
+
+2. Onlar sizin kodunuzu giriyor. Ikinci satirda yeni bir kod gorunecektir. Onlar bu kodu size veriyor.
+|50173|ozel komutlar
+|50174|Kodlar "Bir uye davet et" bolumunun 2. satirina girilir.
+
+CHECKACHIEVEMENTS
+Gemi ve kaptan basarimlarini yeniden kontrol eder
+
+RESETMAXDMG
+Istatistiklerdeki maksimum hasar sayisini sifirlar
+
+RESETRANKVENUS
+Venus'un rutbesini 1'e ayarlar, ismi diger kaptan isimleriyle degistirin
+
+USECLASSICSHIP
+ozel gemilerde takili kalindiginda klasik gemilere gecisi zorlar
+
+RENDERINSTANCEDTRUE
+Modern donanimlarda daha iyi performans. Devre disi birakmak icin TRUE'yu FALSE ile degistirin
+
+RESETWORLDS
+Dunya haritasindaki tum ilerlemeyi sifirlar. Geri alinamaz!
+
+DELETEOWNLEADERBOARD
+Tekrar skor tablosunu acana kadar skor tablosundaki kendi girisinizi kaldirir
+
+SAVELOCATION
+Yerel kayit dosyasinin konumunu acar. (Tum platformlarda calismayabilir)
+
+UNSELECTALLTALENTS
+Tum kaptan yeteneklerinin secimini kaldirir (Kilitleri acik kalir)
+|50175|â† kaydir â†’
+|50176|â† Topluluktan yardim alin!
+|50177|Ittifaktan Bonus
+|50178|uye:
+|50179|Hasar:
+|50180|Gelir:
+|50181|<color=#ffff00ff><size=80>â–¡</size></color> ucus sonrasi sansi:
+|50182|Sonraki uye:
+|50183|Bir davet kabul et
+|50184|1. Onlarin davet kodunu girin
+|50185|Onun davet kodunu girin ...
+|50186|2. Onlara onay kodunuzu iletin
+|50187|Olusturulan onay kodunu kopyala ...
+|50188|Bir uye davet et
+|50189|1. Onlara davet kodunuzu iletin
+|50190|Davet kodunuzu kopyala ...
+|50191|2. Onlarin onay kodunu girin
+|50192|Onun onay kodunu girin
+|50193|oZEL HARITALAR
+|50194|GoREVLER
+|50195|DuNYA HARITASI
+|50196|DALGALAR
+|50197|KLASIK
+|50198|HIPERYON
+TAPINAgI
+|50199|KRISTAL
+KONSORSIYUMU
+|50200|BOsLUK
+LEJYONLARI
+|50201|Ilk harita.
+|50202|Uc
+|50203|Bosluk Lejyonlari
+|50204|Hiperyon Tapinagi
+|50205|Kristal Konsorsiyumu
+|50206|kat genel <color=#FF00FF>$</color> bonusu
+|50207|ucus sonrasi <color=#ffff00ff><size=80>â–¡</size></color> sansi
+|50208|3 saatlik bonusu acmak icin reklam izle
+|50209|Gorevler
+|50210|Ilk hedefiniz tum gorevleri bitirmektir. Hicbir blokla carpismazsaniz gorevi bitirir ve bir sonraki gorevin kilidini acarsiniz. Bir gorevi temizlerseniz, sari bir kare ile isaretlenecektir.
+
+Daha sonra dunya haritasinin kilidini actiginizda, tum gorevleri tamamladiktan sonra dunya Asama 300'e kadar kisayol kullanma seceneginiz olacaktir.
+|50211|Gorev 0 temizlendi, gorev 0-3 acildi.
+
+Oyunun ilerleyen asamalarinda, ozel ogelerin ve gemilerin kilidini acabileceginiz cok zor gorevleri acan gruplara katilabileceksiniz.
+|50212|[Misafir]
+|50213|Gorevlere ve tuccara erismek icin grupla uyumlu olmaniz gerekir.
+|50214|Itibar Tuccari
+|50215|[Tuccar Devre Disi]
+|50216|Kalici olarak acildi!
+|50217|Acilanlar:
+|50218|Harita Paketleri
+|50219|Paket Kimligi
+|50220|Isim
+|50221|Haritalar
+|50222|Aciklama
+|50223|Hedefler
+|50224|Basarisiz
+Kisitlama
+|50225|Izin Verilen
+Gemiler
+|50226|Izin Verilen
+ogeler
+|50227|Izin Verilen
+Kaptanlar
+|50228|Diger
+Kisitlamalar
+|50229|Yarattiklarinizi MGB toplulugunda paylasin!
+|50230|Harita Duzenleyici
+|50231|Sil
+|50232|Panodan Ice Aktar
+|50233|Emin misiniz?
+|50234|Mobil cihazlar cok buyuk paketleri kopyalayip yapistiramaz. Daha az toplam blok ve daha az farkli blok varyasyonu olmasi paket boyutunu cok azaltabilir.
+Disa Aktar dugmesi bir paketi basariyla kopyalamak icin biraz zaman alabilir.
+|50235|Harita Paketi Disa Aktarma
+|50236|Disa Aktarma, harita paketini kaydeder ve metin olarak panoya kopyalar.
+
+Bu metni baskalariyla paylasarak onlarin ice aktarmasini saglayabilirsiniz.
+
+Paket adlari ayni OLAMAZ, adin degistirilmesi yeni bir Paket olusturur.
+|50237|Ice Aktar'a basarsaniz, panodaki metin Harita Paketi olarak ice aktarilacaktir.
+
+Ucmak icin bir Harita Paketi secin.
+|50238|Harita Paketleri, potansiyel ozel kisitlamalar ve ozel hedefler iceren kullanici yapimi haritalarin koleksiyonudur.
+
+Duzenleyicide kendi Paketlerinizi olusturabilirsiniz.
+|50239|Harita Paketi
+|50240|Duzenleyiciden cik
+|50241|Kaydet
+|50242|Test Ucusu
+|50243|Yapilandirma
+|50244|Kisitlamalar
+|50245|Blok cani
+|50246|Mutasyon
+|50247|olumsuz
+|50248|Kalkan
+|50249|Yenilenme
+|50250|saniye basina
+|50251|Zirh
+|50252|Derecelendirme
+|50253|Firca X
+|50254|Firca Y
+|50255|Mod
+|50256|cizgiler
+|50257|Gradyan
+|50258|Rastgele
+|50259|Varyasyon
+|50260|Paket adlari ayni OLAMAZ!
+Adi degistirmek yeni bir paket olusturur!
+|50261|Ice Aktar
+|50262|Yenile
+|50263|Yeni Paket
+|50264|Paket icerigi
+|50265|Manuel kopyalama satiri
+|50266|Paket adi ...
+|50267|Disa Aktar
+|50268|Yavas Disa Aktarma
+|50269|Buyuk paketler
+icin daha iyi
+|50270|Paket Aciklamasi ...
+|50271|Yeni Harita
+|50272|cogalt
+|50273|Yukari Tasi
+|50274|Asagi Tasi
+|50275|Gorev adlari ayni OLAMAZ!
+|50276|Gorev yapilandirmasi
+|50277|Uygula
+|50278|tarafindan
+|50279|Boyut
+|50280|Aralik
+|50281|Gorev Adi ...
+|50282|Gorev Aciklamasi ...
+|50283|Hizli duzenleme
+|50284|Tum kareleri mevcut degerlerle doldur
+|50285|Yalnizca bos kareleri mevcut degerlerle doldur
+|50286|Gorev Kisitlamalari
+|50287|Izin verilen gemiler
+|50288|Izin verilen ogeler
+|50289|ozel Gemilere izin verilir
+|50290|X oge veya daha azini kullan
+|50291|Izin verilen kaptanlar
+|50292|Tamamlanmasi icin onceki
+gorevin tamamlanmasi gerekir
+|50293|Kilit acilana kadar
+harita aciklamasini gizle
+|50294|Gorev Hedefleri
+|50295|Tamamlamak icin temizle
+|50296|X saniye veya daha kisa surede bitir
+|50297|X para veya daha fazlasini kazan
+|50298|X blok veya daha azini yok et
+|50299|X blok veya daha fazlasini yok et
+|50300|En Yuksek Dalga:
+|50301|Son Dalga:
+|50302|Kazanilan son <color=#ff0000ff><size=120>âœ</size></color>:
+|50303|Ek denemeler:
+|50304|Son mesafeyi atlama:
+|50305|Dalga suresi artisi:
+|50306|Dalgaya hiz:
+|50307|Dalga atlama sansi:
+|50308|Daha fazla <color=#ff0000ff><size=80>âœ</size></color>:
+|50309|Dalga sonrasi <color=#ff0000ff>1<size=80>âœ</size></color> kazan:
+|50310|Atis hizi ve hasar:
+|50311|ofke'den Yetenege:
+|50312|Dalgalar
+|50313|Dalgalar modu, ozel geminiz icin insaat bloklari satin almak uzere kirmizi carpilar kazanmak icindir. Bir sonraki dalgaya gecmek icin sure dolmadan bir dalgayi temizlemelisiniz. Ne kadar ileri giderseniz, o kadar cok kirmizi carpi kazanirsiniz.
+
+Bu modda sadece ozel gemileri kullanabilirsiniz.
+|50314|Dalgalar modundan cikmak size 1 kirmizi kareye mal olur. Size yetenegi veren ozel gemi parcasina sahipseniz, sol tarafta dugmeyi ve yukleme cubugunu goreceksiniz. Yetenegi etkinlestirmek icin depolanmis mermi sayisinin oldugu dugmeye dokunun.
+|50315|Kirmizi carpilar
+|50316|ozel geminiz icin daha fazla parca satin almak uzere kirmizi carpilar kazanirsiniz.
+Kazanacaginiz kirmizi carpi miktari, dalga basina 1 kirmizi carpiya ulasana kadar ne kadar uzaga ulasirsaniz o kadar hizli artar.
+|50317|Adim boyutu
+|50318|Diller
+|50319|Panodan/URL'den Ice Aktar
+|50320|Topluluk tarafindan olusturulmus dil paketlerini edinin!
+|50321|Evet
+|50322|Konum ayarlamak icin dokun
+|50323|Konsol
+|50324|/dak
+|50325|Dunya haritasi
+|50326|Dunya haritasinda merkez koordinatinda (0/0) baslarsiniz. Merkezden daha uzaktaki dunyalari ziyaret ederek daha yuksek bir dunya asamasina ulasmaya calisin.
+
+Dunya asamasi, merkezden olan mesafedir.
+|50327|Dolu sari kareler, bir dunyada sari kareler kazanabileceginizi gosterir. Onlari talep etmek icin dunyayi temizlemeniz gerekir.
+|50328|Madalyalarla dunya haritasindaki gorus mesafesini artirabilirsiniz.
+|50329|Sari kareler
+|50330|Dunya asamasi ne kadar yuksek olursa, bir dunyada o kadar cok sari kare bulabilirsiniz. Bir dunya, dunya asamasi degerinin en fazla %10'una kadar sari kareye sahip olabilir. ornegin, 3000 asamali bir dunyada en fazla 300 sari kare olabilir.
+
+Dunya asamasi ne kadar yuksek olursa, bloklar o kadar zor olur. Yolculugunuzda onlari yenmek icin ozel ogelere ihtiyac duyan zirhli, kalkanli ve mutant bloklarla karsilasacaksiniz. Grup karakollari dunya haritasinda daha uzaktadir, nerede aramaniz gerektigini gosteren seritlerini takip etmeye devam edin.
+|50331|Git Dugmeleri
+|50332|Git Dugmeleri, ziyaret edilen dunyalara atlamanizi saglar. X Dugmesi, size 100'un katlarinda ziyaret edilen dunya asamalarinin bir listesini sunar. Maks Asama sizi maksimum dunya asamasina, Temizlenen ise temizlediginiz maksimum dunyaya goturur.
+|50333|Renkli asama dugmeleri, grup karakollarinin nerede oldugunu gosterir.
+
+Turnuva bolgesi secim dugmeleri, sizi aktif bir dunya turnuva alanina goturur.
+|50334|Dunya Turnuvasi
+|50335|Bir turnuva bolgesine atladiginizda mavi dairelerle gosterilen turnuva alanlarindaki dunyalarda turnuvalar bulabilirsiniz. Turnuva dunyalari, katilimci sayisini gosteren bir numara etiketine sahiptir.
+|50336|Bir turnuva dunyasina tiklayin ve ardindan turnuva moduna gecmek icin Kesfet modu gecis dugmesine tiklayin.
+|50337|Turnuva modunda, secilen dunyadaki turnuva durumu, turnuva hedefleri ve KPI'lar, katilan oyuncular ve kullanilan gemiler dahil olmak uzere ayrintilari gosterilir.
+|50338|Turnuva hedefi (KPI)
+|50339|Bir turnuvanin hedefi, dunya icin hedefleri (KPI) oynayarak turnuva puanlari (TP) kazanmaktir. Bir dunyada en fazla 3 KPI olabilir. Haritayi her bitirdiginizde, KPI ile ilgili istatistikler puanlama icin gonderilir.
+|50340|Sol ustteki katilimci gostergesine (kirmizi daire icine alinmis) tiklayarak dunya skor tablolarini acin. Haritayi tamamladiginizda puanlama icin gonderilen KPI'yi inceleyebilirsiniz. "(min)" olan KPI'lar, daha dusuk bir sayisal degerin daha iyi oldugu anlamina gelir.
+|50341|Turnuva yasaklari
+|50342|Her turnuva dunyasinda gemiler ve ogeler rastgele yasaklanir. Bir turnuva dunyasi seciliyken insa menusune gecerek hangi gemilerin kullanilabilecegini gorebilirsiniz.
+|50343|Turnuvada yasaklanan gemiler ve ogeler carpi isaretiyle gosterilir. Puanlama icin harita istatistiklerini gonderemezsiniz.
+|50344|Turnuvada yasaklanan ogeler. Dunya KPI'larini yerine getirmek icin tasarimlarinizda yaratici olmaya calisin.
+|50345|Dunya Skor Tablolari
+|50346|Bir turnuva dunyasinda iki skor tablosu modu vardir. Liderler modu ve gemi basina modu. Liderler modu, en iyi oyuncularin katilan her gemi icin KPI'sini gosterir ve gemi basina gorunumu, oyuncularin listesini ve TP puani sirasina gore KPI'larini gosterir.
+|50347|Liderler gorunumu. Gemi basina gorunume gecmek icin bir gemiye tiklayin.
+|50348|Gemi basina gorunum. Liderler gorunumune geri donmek icin herhangi bir gemiye tiklayin.
+|50349|Alt cubuk, mevcut secili geminiz icin puanlama icin gonderilen KPI'nin ayrintilarini saglar. Secili geminiz icin liderler gorunumu ve gemi basina gorunumu arasinda gecis yapmak icin uzerine tiklayin.
+|50350|Mevcut secili geminiz icin gemi basina skor tablosu gorunumu. KPI girisiniz skor tablosunda vurgulanir.
+|50351|Evren Skor Tablosu
+|50352|Evren skor tablosuna oyuncu profili > skor tablosu sekmesinden erisebilirsiniz. Oyuncularin elde ettigi toplam TP ve dunya asamasini gosterir.
+|50353|Ilk 100 dugmesi, puanlanan TP sirasina gore siralanan en iyi 100 oyuncuyu getirir. Goreceli dugmesi, mevcut TP siralamanizin 50 ustundeki ve 50 altindaki oyuncuyu getirir.
+
+Verileri buna gore siralamak icin TP simgesine veya asama metnine tiklayin.
+|50354|Turnuva puanlamasi
+|50355|Her haftanin sonunda, tum dunyalarda kazandiginiz TP'ler, MGB odulleri magaza sayfasinda (oyuncu profili > MGB odulleri) harcamaniz icin size yuklenecektir.
+
+Kazanilan TP kredinizi hemen almak icin bir dunyada puanladiginiz TP'yi kilitleme seceneginiz vardir. Ancak, TP'yi zaten kilitlediginiz dunyalara katilamayacaksiniz.
+
+Dunya kilitleme durumu haftanin sonunda sifirlanacaktir.
+|50356|Her aralikta, tum dunyalarda tum oyuncularin KPI gonderimlerini birbirine karsi siralamak icin turnuva puanlamasi yapilir ve ardindan TP'ler verilir. Bir dunyada veya gemi basina ne kadar TP kazandiginizi alt cubukta gorebileceksiniz.
+|50357|Asama:
+|50358|Koordinat:
+|50359|Can:
+|50360|Zirh:
+|50361|Kalkan:
+|50362|Mutasyon:
+|50363|Git:
+|50364|Mevcut Secim
+|50365|Maks Asama
+|50366|Temizlendi
+|50367|Siralamalar
+|50368|Kisayol
+|50369|Gorev       ile   Asama
+|50370|mevcut    ile   Asama
+|50371|Kesfetme Modu
+|50372|Gemi / donanim yasaklandi!
+|50373|Puanlari Kilitle
+|50374|Gemi Yasaklari:
+|50375|oge Yasaklari:
+|50376|Istatistikleri goster...
+|50377|Sure
+|50378|MGB odulleri
+|50379|Puan
+|50380|Turnuva Bolgesi Secimi
+|50381|Isinlanmak icin bir turnuva secin. O asamaya ulasmis olmaniz gerekir.
+|50382|SOLA
+DoNDuR
+|50383|SAgA
+DoNDuR
+|50384|OTOMATIK
+DoNDuR
+|50385|Sozlesmeyi Incele
+|50386|Belki Sonra ...
+|50387|UYARI
+|50388|Burayi imzala: _______________________
+|50389|imza
+|50390|... Bir dakika ne?!
+Bunu imzalamayacagim!
+|50391|Grup itibari karsiliginda ruhumu ve hazinelerimi Hyperion Tapinagi'na bagislamayi ve bir takipcisi olmayi kabul ediyorum. Baslangic denemeleri ve kurban rituellerinden kaynaklanabilecek her turlu talihsizlik benim sorumlulugumdadir.
+|50392|Bagis Belgesi
+Hyperion Tapinagi
+|50393|Grup itibari karsiliginda Kristal Konsorsiyumu sartlarini ve kosullarini (KK-Bolum 34) kabul ediyorum. Asteroit madenciligi saatleri, Cumartesi gunleri dahil olmak uzere, sabah 9'dan aksam 9'a kadardir. Premium hayat sigortasi*, spor salonu uyeligi ve enerji icecekleri dahildir. *Yorgunluktan kaynaklanan olum kapsanmamaktadir.
+|50394|Form KK-3721
+Kristal Konsorsiyumu
+|50395|Grup itibari karsiliginda haklarimdan feragat ettigimi ve sanli savasta Bosluk Lejyonu'nun 8. Dis Filosu'na katildigimi beyan ederim. Lejyon'un, sakatlik, olum veya bosluga cekilme durumunda 1000 dolara kadar tum masraflari karsilayacagini anliyorum.
+|50396|Hizmet Sozlesmesi
+Bosluk Lejyonu
+|50397|Mevcut tum gemilerinizi ve ogelerinizi kaybedeceksiniz! Gorevler, dunya haritalari ve dalgalar sifirlanacak ve mevcut ilerlemeniz grup itibarina donusturulecektir.
+
+Yine de premium gemilerinizi, madalyalarinizi ve kaptan deneyiminizi koruyacaksiniz. Kalici olarak acilan grup gemileri ve ogeleri Para ile tekrar satin alinabilir.
+|50398|Oyun Kaydedildi
+|50399|Son yedekleme >2 saat once yapildi!
+|50400|(Basarisiz -%70)
+|50401|Kâr:
+|50402|Para:
+|50403|Sure:
+|50404|Hasar ciktisi
+|50405|Ateslenen Mermi:
+|50406|DPP: (Mermi Basina Hasar)
+|50407|DPS: (Saniye Basina Hasar)
+|50408|Normal:
+|50409|Enerji:
+|50410|Kalkan Delme:
+|50411|Saf:
+|50412|Toplam:
+|50413|Isi:
+|50414|Radyasyon:
+|50415|Zirh Delme:
+|50416|Gorev 11'in kilidini ac
+|50417|Etkili Hasar
+|50418|DOT (tumu):
+|50419|Reklam Al
+|50420|ekstra kâr
+|50421|Reklam sinyali alinmadi
+|50422|Lutfen gemi iletisim sisteminizi kontrol edin
+|50423|ozel Haritalar
+|50424|Gemini insa etme
+|50425|Ittifak
+|50426|ozel insa bloklari
+|50427|Zorluklar
+|50428|MGB magazasi
+|50429|Yardim sayfalari
+|50430|Komutan Profili
+|50431|Kod Adi:
+|50432|MGB evrenindeki adiniz
+|50433|Gemi Sembolu:
+|50434|ozel geminiz ve profiliniz icin gorunum
+|50435|Komutan gemisini
+klasik gemiler icin kullan:
+|50436|Sadece gorsel efekt
+|50437|Mermiler:
+|50438|Hasara dayali dinamik tasarimi kullan:
+|50439|Mermi Izleri:
+|50440|Izleri devre disi birakmak performansi artirabilir
+|50441|Herkese acik profili goruntule
+|50442|MGB Evren Agi
+|50443|Giris yap
+|50444|Hizmet sartlari
+|50445|cevrimici dunya haritasina, skor tablolarina, bulut kayitlarina ve diger ozelliklere erismek icin Google Play Oyunlar araciligiyla MGB Evren Agi'na giris yapin. Apple Arcade girisi su anda kullanilamiyor. simdilik lutfen bir e-posta kimligi olusturun.
+|50446|Durum:
+|50447|Hesabi Bagla / Alternatif giris:
+|50448|sifre
+|50449|E-posta
+|50450|Hesabin Baglantisini Kaldir
+|50451|sifremi Unuttum
+|50452|Hesap Olustur
+|50453|Mevcut hesaba yeni bir e-posta kimligi baglamak icin giris yapin ve "Hesap Olustur ve Bagla" dugmesini kullanin. Mevcut bir e-posta kimligine baglanti kuramazsiniz. Iliskili e-posta kimligini kaldirmak icin "Hesabin Baglantisini Kaldir" dugmesini kullanin. Ilerlemenize erismek icin diger cihazlarda e-posta kimligiyle giris yapabilirsiniz.
+|50454|Google ve Apple kimlik bilgileriyle giris yapma ve baglama su anda kullanilamiyor.
+|50455|cikis yap
+|50456|Google
+|50457|Apple
+|50458|Magazada
+Oyla :)
+|50459|Yapim Asamasinda
+|50460|Arayuz sesi:
+|50461|Oyun sesi:
+|50462|Muzik:
+|50463|Ses acik:
+|50464|Bulut kayit dosyanizi yukleyip mevcut ilerlemenizi degistirmek istediginizden emin misiniz?
+|50465|Yukle
+|50466|Iptal
+|50467|Yedek kayit dosyanizi yukleyip mevcut ilerlemenizi degistirmek istediginizden emin misiniz?
+|50468|Dunya Haritasi
+|50469|- Dunya haritasinda merkezden disa dogru kesif yaparsiniz.
+
+- Dunyalarin "Asamasi", dunyanin merkeze olan mesafesidir.
+
+- <color=yellow><size=100>â– </size></color> ile isaretlenmis bir dunyayi temizleyerek, dunya asamasi degerinin %10'una kadar sari kareler <color=yellow><size=100>â–¡</size></color> kazanabilirsiniz.
+
+- Dunya haritasinda, ilgili temali seritlerle isaretlenmis gruplarla karsilasacaksiniz. Bu serit icinde onlarin karakollarini arayin.
+
+- Gorevlerin kilidini actiginizda, dunya haritasinda size bir kisayol sunulacaktir. Gorev 99'u tamamlamak icin Asama 300'e kadar.
+|50470|sunun kilidini actiniz
+|50471|<- Dunya haritasindaki Kisayol dugmesi
+|50472|Unutmayin: ustteki yardim dugmesi, baglama duyarli ipuclari saglar!
+|50473|Bir yol planlamak
+|50474|Gemi envanteri
+|50475|1    +  1   +   1   x  10  =  30 hasar
+|50476|- Bir gemideki yol ne kadar uzun olursa, o kadar cok hasar sigdirabilirsiniz.
+
+- Sira onemlidir! carpmadan once toplama.
+|50477|Bol
+|50478|Tek hat
+|50479|1    x  10  +   1   +  1   =  12 hasar
+|50480|- Yalnizca olusturucudan gelen orijinal bir mermi cogaltilabilir. cogaltilmis bir mermi, yalnizca efsanevi bir oge tarafindan daha fazla cogaltilabilir.
+|50481|cogaltilanlar ve Orijinaller
+|50482|ucretsiz oge, Yasasin :)
+|50483|x2 hasar
+|50484| 1       +1      +1      x2    =   6 mermi
+|50485|Azalan verim
+|50486|x1.33 hasar
+|50487|x1.25 hasar
+|50488| 1       x2      +1      +1    =   4 mermi
+|50489|x1.5 hasar
+|50490|Bir tane daha
+|50491|Etki Alani (AoE) hasari
+|50492|- Birden fazla bloga ayni anda hasar verirsiniz. Daha fazla AoE ogesi yaricapi artirir.
+
+... kulaga iyi geliyor, degil mi? oyle! ... kullanin!
+|50493|6x cember AoE'nin Etkisi
+|50494|Tablet modu:
+|50495|Daha genis ekranlar icin daha iyidir.
+|50496|olcek
+|50497|centik modu:
+|50498|Telefondaki guvenli goruntuleme alanini kullanir.
+|50499|FPS'yi goster:
+|50500|Hedef kare hizi:
+|50501|FPS < 30 ise oyun hizi yavaslayacaktir
+|50502|Menu ipuclari:
+|50503|Varsayilan
+|50504|Her Zaman Goster
+|50505|Her Zaman Gizle
+|50506|Sayi bicimlendirmesi:
+|50507|Kontrol yontemi:
+|50508|dokunmatik sifirlama
+|50509|dokunmatik yapiskan
+|50510|joystick
+|50511|Konum
+Ayarla
+|50512|Kaba parmak kaymasi:
+|50513|Geminin parmaginizin uzerindeki mesafesi.
+|50514|Arka plan rengi:
+|50515|Konsol:
+|50516|Acik
+|50517|Kapali
+|50518|Dil:
+|50519|Ayni zamanda topluluk tarafindan olusturulmus dil paketlerini de ice aktarabilirsiniz.
+|50520|ozel
+Haritalar
+|50521|Yama Notlari
+|50522|Gizlilik Politikasi
+|50523|BULUT KAYDI
+|50524|Buluta otomatik kaydet
+|50525|Kaydi Yukle
+|50526|Buluttaki kayit dosyasi
+|50527|Bulut kayitlari su anda Steam ve iOS'ta kullanilamamaktadir.
+|50528|YEREL KAYIT
+|50529|Cihazdaki kayit dosyasi
+|50530|Her turlu geri bildirim icin her zaman minnettariz :)
+|50531|Gemi insa etmeyi ogrenmek, etkinliklere katilmak veya herhangi bir soru sormak icin yardimsever Discord toplulugumuza katilin. cok aktifiz!
+|50532|Tarayicida Ac
+|50533|Ayrica r/MinerGunBuilder'dayiz.
+|50534|E-posta:
+|50535|cekinmeyin, yardim etmek icin elimizden geleni yapacagiz.
+|50536|Satin alimlarinizda, oyun kayitlarinizda veya diger konularda herhangi bir sorunla karsilasirsaniz lutfen bize e-posta gonderin.
+|50537|Anonim bir tanimlayici.
+|50538|Size yardim etmemizi kolaylastirmak icin lutfen destek taleplerinize UID'nizi (Kullanici Kimliginiz) ekleyin.
+|50539|Mevcut:
+|50540|getiriliyor...
+|50541|Mevcut diller:
+|50542|Tasarim panoya kopyalandi!
+|50543|Evren Skor Tablosu
+|50544|Ilk 100
+|50545|Goreceli
+|50546|Yukleniyor...
+|50547|Genel oduller
+|50548|Topla
+|50549|MatematikGorusu
+(Efsanevi Arac)
+|50550|Gemi insa etmeyi kolaylastirmak icin gemi insa menunuze bir mermi hasari simulatoru araci ekler. Mermi yollari boyunca her ogedeki toplam hasari gorsellestirir.
+|50551|Yazi Tipi
+|50552|Mevcut yazi tipleri:
+|50553|Dil
+|50554|Mevcut oldugu platform:
+|50555|Merhaba :)
+Umarim oyunumu su ana kadar begenmissinizdir. Merak etmeyin, magazada oy vermeniz icin yalnizca bir kez soracagim.
+
+|50556|Elbette, sorun degil!
+|50557|Hayir, pek istemem.
+|50558|Basarim kazanildi
+|50559|Sifirla
+|50560|Uzay Akademisine hos geldiniz:
+|50561|Tebrikler! Uzay Komitesi, bir gemi ucuracak kadar yetkin oldugunuza karar verdi ve size ucus sertifikanizi verdi!
+
+Iste size yeni geri donusturulmus bir Rider gemisi:
+
+
+
+
+
+
+
+
+simdi ucus ve madencilik egitiminize baslayabilirsiniz.
+|50562|Egitim
+|50563|Gorev Ucusu
+|50564|oge Satin Al
+|50565|Silahi Insa Et
+|50566|EgITIMI ATLA
+|50567|Bunlar, ucmak icin secebileceginiz gorevlerdir. Sonraki gorevin kilidini acmak icin haritayi gecin veya temizleyin.
+|50568|Baslatmak icin secili <color=#008787>Gorev 0'a</color> dokunun.
+|50569|Harita sonunda, kârinizi ve hasar ozetinizi goruntuleyebilirsiniz. Kazandiginiz <color=#ff00d0>para</color> miktari, blogun caniyla orantilidir. 
+
+<color=#2255D9>Devam etmek icin herhangi bir yere dokunun...</color>
+|50570|Aferin pilot! Ilk gorevinde gemini mahvetmeyi basardin... yoksa gemin hep mi boyle gorunuyordu?
+
+
+simdi ates gucunu yukseltme zamani! Iste sana biraz bedava para:
+
+
+
+
+|55071|'+1 Hasar' ogesini secin.
+|50572|Bu ogeler satin alinabilir ve geminizde kullanilabilir. Islevini ogrenmek icin bir ogeye tiklayin.
+|50573|Ardindan Satin Al dugmesine dokunun.
+|50574|'+1 Hasar' ogesi edindiniz. simdi onu geminize uygulayacaksiniz.
+
+
+
+
+
+
+Iste size biraz daha para, bedava:
+
+
+
+
+|50575|Geminizdeki bos yuvayi secin.
+|50576|Islevini gormek icin bir bloga dokunun. Ardindan gemideki bos yuvayi secin.
+|50577|Geminin silahini ateslemek icin, mermi olusturucunun bir firlatma bloguna baglanmasi gerekir. Mermi hasarini degistirmek icin tum ogeleri kirmizi lazer yolu boyunca dogru sekilde baglayin.
+|50578|Bos yuva icin bir oge secmek icin dokunun.
+|50579|Bu, sahip oldugunuz tum ogelerin envanteridir. Satin aldiginiz '+1 Hasar' ogesini secin.
+|50580|Sec'e dokunun.
+|50581|Aferin! Miner Gun Builder akademisinden mezun oldunuz. simdi disaridaki dunyayi kesfedin ve biraz asteroit kazin.
+
+
+Iste size biraz daha param:
+
+
+
+
+|50582|Egitim Tamamlandi!
+|50583|Haritalari temizlemek ve daha fazla oge, daha guclu gemiler satin almak ve kaptan kiralamak icin <color=#ff00d0>para</color> kazanmak uzere gorevlerinize devam edin.
+|50584|daha fazla deneme!
+|100000|Bos Yuva
+|100001|Bos oge yuvasi. Takmak icin bir oge secmek uzere tekrar dokunun.
+|100002|Bos yuvaya yerlestirmek icin bir oge secin. Mermi hasarini artirmak icin ogeleri kirmizi mermi yolu boyunca yerlestirin. Geminin mermi atmasi icin Projektor Olusturucunun bir Firlatma Bloguna bagli oldugundan emin olun.
+|100003|oge envanterinizi acmak icin bos yuvaya iki kez dokunun.
+|100004|Ardindan bos yuvaya yerlestirmek icin bir ogeye iki kez dokunun.
+|100010|Kati Blok
+|100011|Kati bir blok. Mermiler icinden gecmez.
+|100012|Mermiler kati bloktan gecemez. Sola Yonlendir ve Saga Yonlendir gibi ogeler kullanmak mermi yolunu yeniden yonlendirecektir. Hasari en ust duzeye cikarmak icin geminizde mumkun olan en uzun yolu olusturmaya calisin.
+|100013|Kirmizi mermi yolu, kati bir bloga carparsa sona erer. ogelerinizin bir yol boyunca dogru sekilde donduruldugunden emin olun. Bir ogenin giris tarafi siyah bir ucgenle isaretlenmistir.
+|100014|
+|100020|Mermi Olusturucu
+|100021|Mermi olusturucu.
+|100022|Mermi olusturucu, mermiler uretir. Gemi atis hizi, mermilerin ne siklikta uretilecegini belirler.
+
+Mermiler yollarini takip eder ve yol boyunca her oge, firlatilana kadar hasarini veya diger ozelliklerini degistirir.
+|100023|Sira onemlidir: Mermi 1 hasarla baslar ve yolda 3 ek hasar kazanir. carpan ogesinin 10 ile carpma sansi vardir ve sonuc 40 hasardir.
+
+1, +1, +1, +1, x10 = 40
+|100024|Bu durumda, baslangictaki 1 hasarin 10 ile carpilma sansi vardir, bu da 10 hasarla sonuclanir ve ardindan 3 ek hasar eklenir. Nihai hasar 13'tur.
+
+1, x10, +1, +1, +1 = 13
+|100030|Firlatma Blogu
+|100031|Firlatma blogu. Mermiyi ilerledigi yonde firlatir.
+|100032|Firlatma blogu, mermileri ilerledigi yonde atesler. Bu, mermilerin, firlatma blogundan hemen onceki mermi yoluyla ayni yonde gemiden ateslendigi anlamina gelir.
+Bir yol firlatma bloguna bagliysa, kirmizi renkte yanacaktir.
+|100033|Yukari Atesle gibi ogeler kullanmak, firlatildiktan sonra mermi hareket yonunu degistirebilir. Bu, firlatma blogu geminin altinda veya yanlarinda yerlestirilmisse kullanislidir.
+|100040|Sola Yonlendir
+|100041|Mermiyi sola yonlendirir.
+|100042|Mermi yolunu sola yonlendirir. Bir kosenin etrafinda bir yol olusturmak icin kullanin.
+|100050|Saga Yonlendir
+|100051|Mermiyi saga yonlendirir.
+|100052|Mermi yolunu saga yonlendirir. Bir kosenin etrafinda bir yol olusturmak icin kullanin.
+|100053|Yollar kesisebilir ve bos bir yuvada birbirlerinin icinden gecebilir.
+|100060|+1 Hasar Ekle
+|100061|Mermiye +1 hasar ekler.
+|100062|Mermiye 1 hasar ekler.
+|100070|Kucuk Dagilim
+|100071|Mermiyi kucuk bir dagilimla firlatir.
+|100072|Mermiler kucuk, rastgele bir dagilimla firlatilir. Bir yol boyunca birden fazla oge, maksimum dagilim acisini artirir.
+|100073|Bir kucuk dagilim ogesi.
+|100074|uc kucuk dagilim ogesi.
+|100080|Buyuk Dagilim
+|100081|Mermiyi buyuk bir dagilimla firlatir.
+|100082|Mermiler buyuk, rastgele bir dagilimla firlatilir. Bir yol boyunca birden fazla oge, maksimum dagilim acisini artirir.
+|100083|Bir buyuk dagilim ogesi.
+|100084|uc buyuk dagilim ogesi.
+|100090|Sola Dagit
+|100091|Mermiyi sol tarafa buyuk bir dagilimla firlatir.
+|100092|Mermiler rastgele bir dagilimla sol tarafa firlatilir. Bir yol boyunca birden fazla oge, maksimum dagilim acisini artirir.
+|100093|Bir sola dagit ogesi.
+|100100|Saga Dagit
+|100101|Mermiyi sag tarafa buyuk bir dagilimla firlatir.
+|100102|Mermiler rastgele bir dagilimla sag tarafa firlatilir. Bir yol boyunca birden fazla oge, maksimum dagilim acisini artirir.
+|100103|Bir saga dagit ogesi.
+|100110|Rastgele Egri
+|100111|Mermi firlatildiktan sonra rastgele egrilir.
+|100112|Mermiler firlatildiktan sonra rastgele egimli bir yorungede hareket eder. Bir yol boyunca birden fazla oge, egriligi artirir.
+|100113|Bir rastgele egri ogesi.
+|100114|uc rastgele egri ogesi.
+|100120|Sola Egil
+|100121|Mermi firlatildiktan sonra sola egrilir.
+|100122|Mermiler firlatildiktan sonra sabit bir sola egimli yorungede hareket eder. Bir yol boyunca birden fazla oge, egriligi artirir.
+|100123|Bir sola egil ogesi.
+|100124|uc sola egil ogesi.
+|100130|Saga Egil
+|100131|Mermi firlatildiktan sonra saga egrilir.
+|100132|Mermiler firlatildiktan sonra sabit bir saga egimli yorungede hareket eder. Bir yol boyunca birden fazla oge, egriligi artirir.
+|100133|Bir saga egil ogesi.
+|100140|2 Yonlu Bol
+|100141|Mermiyi tam hasarla iki yola boler.
+|100142|Mermi yolunu sol ve sag yollara boler. Orijinal ve cogaltilmis mermiler durumlarini koruyacaktir.
+|100143|2 yonlu bol ogesinin nasil kullanilacagina dair ornek.
+|100150|Hizlandir
+|100151|Mermi hizini 1 artirir.
+|100152|Hizlandirma ogesi yok.
+|100153|Iki hizlandirma ogesi.
+|100160|Mermi Ekle
+|100161|cogaltilmis bir mermi ekler. Yalnizca orijinal mermiler cogaltilir.
+|100162|Her orijinal mermi icin cogaltilmis bir mermi olusturur. cogaltilmis mermiler daha fazla cogaltilamaz. ornegin, bir yol boyunca bu ogeden 3 tane olmasi, toplamda 4 mermi uretecektir, cunku yalnizca bir mermi orijinaldir.
+|100163|Bir mermi ekle ogesi.
+|100164|uc mermi ekle ogesi.
+|100170|3 Yonlu Bol
+|100171|Mermiyi tam hasarla uc yola boler.
+|100172|Mermi yolunu ileri, sol ve sag yollara boler. Orijinal ve cogaltilmis mermiler durumlarini koruyacaktir.
+|100173|3 yonlu bol ogesinin nasil kullanilacagina dair ornek.
+|100180|olum Delmesi
+|100181|Mermi, hasari kaldigi surece devam eder. Hasar, yok edilen blok basina azaltilir.
+|100182|Mermi, hasari kaldigi surece bloklari deler. Her delme icin, mermi hasari yapilan hasara ve ek bir hasar azaltimina bagli olarak azaltilir:
+hasar / (ogeler * (ogeler + 1))
+Bir yol boyunca birden fazla oge, delinen bloklardan kaynaklanan hasar azalmasini azaltir.
+|100183|Guclu bir mermi, hasari bitene kadar bloklari delip gecebilir.
+|100190|Delme
+|100191|Mermi 1 blogu deler.
+|100192|Mermiler bir blogu deler. Bir yol boyunca birden fazla oge, delme sayisini artirir. Delinen tum bloklara tam hasar uygulanir.
+|100193|Bir delme ogesi.
+|100194|uc delme ogesi.
+|100200|x2 Hasar
+|100201|Mermi hasarini iki katina cikarma sansi %33.
+|100210|x10 Hasar
+|100211|Mermi hasarini 10 katina cikarma sansi %4.
+|100212|Mermi hasarini 10 katina cikarma sansi %4.
+|100220|2 Yonlu Rastgele Bol
+|100221|Mermi hasarini iki katina cikarir ancak rastgele yeni bir yol secer.
+|100222|Mermi yolunu rastgele sola veya saga yonlendirir ve mermi hasarini iki katina cikarir.
+|100223|2 yonlu rastgele bol ogesinin nasil kullanilacagina dair ornek.
+|100230|3 Yonlu Rastgele Bol
+|100231|Mermi hasarini uc katina cikarir ancak rastgele yeni bir yol secer.
+|100232|Mermi yolunu rastgele ileri, sola veya saga yonlendirir ve mermi hasarini uc katina cikarir
+|100233|3 yonlu rastgele bol ogesinin nasil kullanilacagina dair ornek.
+|100240|cember AoE
+|100241|Dairesel alanda hasar verir, ancak cikti hasarini %6 azaltir.
+|100242|Mermiler, vurulan blogun etrafindaki dairesel bir alanda tam hasar verir. Bir yol boyunca birden fazla oge, cember AoE yaricapini artirir, ancak oge basina genel cikti hasarini %6 azaltir.
+|100243|Bir yuvarlak alan ogesi.
+|100244|uc yuvarlak alan ogesi.
+|100250|Rastgele Sekme
+|100251|Mermi rastgele bir yonde 1 kez seker.
+|100252|Mermiler tam hasar uygulayarak rastgele bir yonde bloklardan seker. Bir yol boyunca birden fazla oge, sekme sayisini artirir.
+|100253|Bir rastgele sekme ogesi.
+|100260|Geri Donus Sekmesi
+|100261|Mermi vurusta yonunu tersine cevirir.
+|100262|Mermiler tam hasar uygulayarak ters yonde bloklardan seker. Bir yol boyunca birden fazla oge, sekme sayisini artirir.
+|100263|Mermiler blok vurusunda yonlerini tersine cevirir.
+|100270|Yukari Atesle
+|100271|Bir sure sonra (en fazla 0.25 s) mermiler yukari donecektir.
+|100272|Mermiler bir sure sonra yukari doner. Bir yol boyunca birden fazla oge, donusun gerceklesme suresini azaltir. Bu oge, gemilerin altinda veya yanlarinda bulunan firlatma bloklari icin kullanislidir.
+|100273|Ileri uc ogesini kullanan ornek bir tasarim.
+|100274|Soldaki tasarimin sonuc etkisi.
+|100280|cift omur
+|100281|Merminin omrunu iki katina cikarir.
+|100282|Mermilerin omrunu iki katina cikarir. Birden fazla oge birikir. Mermilerin temel omru 3 saniyedir.
+|100290|Para carpisi
+|100291|Harita basina %50 daha fazla para ve %6 daha fazla sari kare kazanilir. Yalnizca bir yol boyunca en yuksek carpani uygular.
+|100292|Harita basina kazanilan para ve sari kare miktarini, bir yol boyunca en yuksek para carpisi ogesi sayisina bagli olarak artirir. I, II ve III isaretleri, oge boyunca mermi yolunun dogru sirasini gosterir.
+|100293|Dogru bir kurulum ornegi. ogeyi etkinlestirmek icin mermilerin ogenin yanlarindan gecmesi ve ardindan ileri yonde carpi seklinde kesismesi gerekir.
+|100300|Hasar carpisi
+|100301|Ilk kesisimde mermi hasarini kaydeder, ardindan ikinci kesisimde kaydedilen hasari ekler.
+|100302|Mermi hasarini ilk kesisimde kaydeder ve kaydedilen hasari ikinci kesisimde mermiye ekler. I, II ve III isaretleri, oge boyunca mermi yolunun dogru sirasini gosterir.
+|100310|Yavaslat
+|100311|Mermi hizini yari yariya azaltir.
+|100312|Mermi hizini yariya indirir. Birden fazla oge birikir.
+|100313|Ayni gemide yavaslatma ogesi olmayan ve iki yavaslatma ogesi olan bir ornek.
+|100320|Miknatis
+|100321|Mermiler geminin manyetik alanina cekilir.
+|100322|Mermiler geminin manyetik alanina cekilir. Bir yol boyunca birden fazla oge, cekim gucunu artirir.
+|100323|Bir miknatis ogesi ve bir buyuk dagilim ogesi.
+|100324|uc miknatis ogesi ve bir buyuk dagilim ogesi.
+|100330|Yon Hizalama
+|100331|Mermiler hareket yonlerini hizalar.
+|100332|Mermiler, tum aktif mermilerin ortalama yonune dogru kendi yonlerini hizalar. Bir yol boyunca birden fazla oge, hizalama gucunu artirir.
+|100333|Bir yon hizalama ogesi ve bir buyuk dagilim ogesi.
+|100334|uc yon hizalama ogesi ve bir buyuk dagilim ogesi.
+|100340|Sicrama
+|100341|Mermi bloklardan sicrar.
+|100342|Mermiler tam hasar uygulayarak bloklardan sicrar. Bir yol boyunca birden fazla oge, sicrama sayisini artirir.
+|100343|Bir sicrama ogesi ve bir buyuk dagilim ogesi.
+|100344|uc sicrama ogesi ve bir buyuk dagilim ogesi.
+|100350|cizgi Miknatisi
+|100351|Mermiler geminin ortasindan gecen bir cizgiye cekilir.
+|100352|Mermiler geminin ortasindan gecen bir cizgiye cekilir. Bir yol boyunca birden fazla oge, cekim gucunu artirir.
+|100353|Bir gemiye hizala ogesi ve bir buyuk dagilim ogesi.
+|100354|uc gemiye hizala ogesi ve bir buyuk dagilim ogesi.
+|100360|sarj
+|100361|Her mermi, hasarinin %20'sini sarj cihazina ekler. sarj edilen hasarin %10'unu gelecekteki mermilere aktarir.
+|100362|Gecen her mermi, hasarinin %20'sini sarj cihazina ekler. Gelecekteki gecen mermiler icin, sarj cihazinin hasar havuzunun %10'u onlara aktarilir, bu da buyuk hasar artislarini birden fazla mermi arasinda yumusatir.
+|100363|Yuksek hasarli bir mermi, sarj cihazinin hasar havuzu tukenene kadar hasarini sonraki mermilere aktarir.
+|100370|Yana Atesle
+|100371|Bir sure sonra (en fazla 0.25 s) mermiler yana donecektir.
+|100372|Mermiler bir sure sonra yana doner. Bir yol boyunca birden fazla oge, donusun gerceklesme suresini azaltir.
+|100373|Bir yana uc ogesi.
+|100374|uc yana uc ogesi.
+|100380|Dikdortgen AoE
+|100381|Yatay bir dikdortgen icinde alan hasari, ancak cikti hasarini %6 azaltir.
+|100382|Mermiler, vurulan blogun etrafindaki dikdortgen bir alanda tam hasar verir. Bir yol boyunca birden fazla oge, dikdortgen AoE boyutunu artirir, ancak oge basina genel cikti hasarini %6 azaltir.
+|100383|Bir dikdortgen alan ogesi.
+|100384|uc dikdortgen alan ogesi.
+|100390|Rastgele Hasar
+|100391|Mermi hasarini rastgele sunlarla carpar: 0,1,1,1,1,1,1,1,1,1,2,3 veya 4. carpan 0 ise mermi yok edilir.
+|100392|Mermi hasari 0,1,1,1,1,1,1,1,1,1,2,3 veya 4 ile carpilir. Bu, %69 ihtimalle 1, %8 ihtimalle 0,2,3 ve 4 kat hasar anlamina gelir. carpan sifirsa, mermi yok edilir.
+|100400|+100 Hasar Ekle
+|100401|Mermiye +100 hasar ekler.
+|100402|Mermiye 100 hasar ekler.
+|100410|Hasar Geri Donusu
+|100411|Mevcut hasari son merminin hasarindan dusukse mermi hasarini 4 kat artirir.
+|100412|Mevcut hasari oncekinden dusukse merminin hasarini 4 kat artirir. Mevcut ve onceki hasar degerleri, hasar carpani uygulanmadan once alinir.
+|100420|capraz Gecis
+|100421|Mermiler her 0.2 saniyede bir capraz olarak yukari doner. Donus basina %5 daha fazla hasar ekler, en fazla 20 kez.
+|100422|Mermiler her 0.2 saniyede bir capraz olarak yukari doner. Donus basina %5 daha fazla hasar ekler, en fazla 20 kez.
+|100423|Bir yon degistirme ogesi.
+|100430|Hasar Stoklama
+|100431|Gemideki kullanilmayan her yuva icin %10 daha fazla hasar.
+|100432|Gemideki kullanilmayan her bos yuva icin %10 daha fazla hasar ekler.
+|100440|Yavas Yanma
+|100441|Daha yavas mermiler icin hasari artirir, 0.1 hizda x3 hasardan 1.5 hizda x0.9 hasara kadar.
+|100442|Mermi hizina bagli olarak mermi hasari ekler, daha yavas mermiler icin hasari artirir. Blok vurusunda hasar, 0.1 hizda x3 hasardan 1.5 hizda 0.9x hasara kadar carpilir.
+|100450|10'u Birlestir
+|100451|10 mermiyi birlestirir ve hasari iki katina cikarir.
+|100452|10 mermiyi tek bir orijinal mermide birlestirir ve hasarini iki katina cikarir.
+|100453|10'u birlestir ogesi olan ve olmayan bir tasarim.
+|100460|Gelismis Hasar
+|100461|Merminin omrunun son 1 saniyesinde mermi hasarini iki katina cikarir.
+|100462|Merminin omrunun son saniyesinde hasari iki katina cikarir.
+|100463|Gelismis hasar ogesi ile mermi davranisina ornek.
+|100470|Yonlendirilmis Hasar
+|100471|Sonraki sol ve sag mermi yonlendiricileri hasari %10 artirir.
+|100472|Sola ve saga yonlendir ogeleri mermi hasarini %10 artirir. Bu, yalnizca yonlendirilmis hasar ogesini gectikten sonra gecerlidir.
+|100480|Asama Hasari
+|100481|Dunya haritasinda ulasilan en yuksek asamanin %10'u kadar hasar ekler.
+|100482|Dunya haritasinda ulasilan en yuksek asamanin %10'u kadar ek hasar ekler. ornegin, Asama 100'de 10 ek hasar, Asama 3000'de 300 hasar ekleyecektir.
+|100490|Firlatici Hasari
+|100491|Kullanilmayan her firlatma blogu icin +10 hasar.
+|100492|Kullanilmayan her firlatma blogu icin 10 hasar ekler. ornegin, 7 kullanilmayan firlatma blogu olan bir gemi, 70 ek hasarla sonuclanir.
+|100500|Seyrek Hasar
+|100501|Daha az firlatilan mermi icin (sirasiyla 10'dan 1'e) hasari dogrusal olarak artirir (1x'ten 2x'e).
+|100502|Daha az firlatilan mermi icin 2 katina kadar hasar ekler. Yalnizca 1 mermi atildiginda hasar iki katina cikar. 10 veya daha fazla mermi atilirsa, oge hasara katkida bulunmaz. Hasar 1 ila 10 atis arasinda dogrusal olarak olceklenir.
+|100510|Klon
+|100511|cogaltilmislar dahil tum mermileri klonlar.
+|100512|Bu oge, cogaltilmislar dahil her mermiyi klonlar.
+|100520|Kalkan Delme
+|100521|Dogrudan hasarin %30'unu kalkan delme hasarina donusturur. KD hasari kalkani deler.
+|100522|Dogrudan hasarin %30'unu kalkan delme hasarina donusturur. KD hasari kalkani deler. carpimsal olarak birikir. Kalkan delme hasari kalkani yok sayar.
+|100530|Zirh Delme
+|100531|Dogrudan hasarin %30'unu zirh delme hasarina donusturur. ZD hasari zirhi deler.
+|100532|Dogrudan hasarin %30'unu zirh delme hasarina donusturur. ZD hasari zirhi deler. carpimsal olarak birikir. Zirh delme hasari zirhi yok sayar.
+|100540|cift Delme
+|100541|Dogrudan hasarin %15'ini saf hasara donusturur. Saf hasar kalkani ve zirhi deler.
+|100542|Dogrudan hasarin %15'ini saf hasara donusturur. Saf hasar kalkani ve zirhi deler. carpimsal olarak birikir.
+|100550|sarjli Mermi
+|100551|%45 sansla ek %160 enerji hasari ekler. Enerji, kalkanlara 3 kat hasar verir.
+|100560|Termit Mermi
+|100561|%45 sansla ek %160 isi hasari ekler. Isi, zirha 3 kat hasar verir.
+|100570|Plutonyum Mermi
+|100571|%45 sansla ek %160 radyasyon hasari ekler. Radyasyon, zirh derecesini hafifce azaltir.
+|100572|%40 sansla ek %125 radyasyon hasari ekler. Radyasyon hasari, zirh derecesini kucuk bir miktarda azaltir. Azaltilan Zirh Derecesi miktari, radyasyon hasari degeriyle olceklenir.
+|100580|Protonik
+|100581|Vurus basina 2 saniye boyunca istiflenebilir %50 ek enerji hasari uygular.
+|100582|Vurus basina 2 saniye boyunca istiflenebilir %50 ek enerji hasari uygular. DOT hasari her vurusta eklenerek birikir ve DOT suresini yeniler.
+|100590|Yanici
+|100591|Vurus basina 2 saniye boyunca istiflenebilir %50 ek isi hasari uygular.
+|100592|Vurus basina 2 saniye boyunca istiflenebilir %50 ek isi hasari uygular. DOT hasari her vurusta eklenerek birikir ve DOT suresini yeniler.
+|100600|Enerji Sifonu
+|100601|Kalkan yenilenmesini 6 saniye boyunca %50 azaltan bir zayiflatma uygular.
+|100602|Kalkan yenilenmesini 6 saniye boyunca %50 azaltan bir zayiflatma uygular. Birden fazla oge kalkan yenilenmesini carpimsal olarak azaltir.
+|100610|Enerji Bozucu
+|100611|Kalkan yenilenmesini 0.15 saniye boyunca bozan bir zayiflatma uygular.
+|100612|Kalkan yenilenmesini 0.15 saniye boyunca bozan bir zayiflatma uygular. Birden fazla oge bozma suresini artirir.
+|100620|Bosluk Direnci
+|100621|Bir bosluk bloguna vuruldugunda mermi modifiyecisi kaybetme sansini %28 azaltir.
+|100622|Bir bosluk bloguna hasar verildiginde mermi modifiyecisi kaybetme sansini %25 azaltir. Birden fazla oge carpimsal olarak birikir.
+|100630|Bosluk Asilama
+|100631|Vurusta %3 sansla bir bosluk blogunu etkisiz hale getirir, ancak blogun canini, zirhini ve kalkanini tamamen yeniler.
+|100632|Vurusta %1 sansla bir bosluk blogunu etkisiz hale getirir, ancak blogun canini, zirhini ve kalkanini tamamen yeniler. Birden fazla oge carpimsal olarak birikir.
+|100640|Giris Portali
+|100641|Giris Portali: Mermileri giristen cikis portalina isinlar.
+|100642|Mermileri, mermi yonunu koruyarak giristen cikis portalina isinlar.
+|100650|cikis Portali
+|100651|cikis Portali: Mermileri giristen cikis portalina isinlar.
+|120000|Buraya bir insaat blogu yerlestirebilirsiniz.
+|120001|Merminin firlatilmasina izin verir.
+|120002|Gemi otomatik olarak en yakin bloga ucar.
+|120003|Basarisiz olduktan sonra ek bir deneme hakkiniz olacaktir.
+|120004|Maksimum ofkenin %5'ini manuel bir mermi patlamasiyla atesleyin.
+|120005|ogeleri yerlestirmek icin bos alan, ancak -%0.2 atis hizi ve -%66.7 cikti hasari.
+|120006|Dalgalar arasindaki hizi %20 artirir.
+|120007|Dalga geri sayimi %30 daha uzun surer.
+|120008|Son mesafenin %15'inde baslayin.
+|120009|Bir dalgayi atlama sansi %10.
+|120010|%10 daha fazla <color=#ff0000ff><size=80>âœ</size></color>.
+|120011|Merminin firlatilmasina izin verir.
+|120012|Bir dalgadan sonra <color=#ff0000ff><size=80>âœ</size></color> kazanma sansi %0.5.
+|130052|Bos yuva +70 hasar.
+|130000|+5 hasar.
+|130053|+5 hasar.
+|130054|+5 hasar.
+|130055|+5 hasar.
+|130056|oge basina +20 ek hasar.
+|130001|Daha buyuk firlatma acilarina sahip mermiler icin %50'ye kadar daha fazla hasar ekler.
+|130002|Daha buyuk firlatma acilarina sahip mermiler icin %50'ye kadar daha fazla hasar ekler.
+|130003|Daha buyuk firlatma acilarina sahip mermiler icin %40'a kadar daha fazla hasar ekler.
+|130004|Daha buyuk firlatma acilarina sahip mermiler icin %40'a kadar daha fazla hasar ekler.
+|130005|Daha buyuk egrilere sahip mermiler icin %60'a kadar daha fazla hasar ekler.
+|130057|Egriler zamanla daha asiri hale gelir.
+|130058|Egriler yolu sabittir.
+|130006|Hasari %30 artirir.
+|130007|Hasari %30 artirir.
+|130008|Mermi hizini surekli artirir.
+|130009|cogaltilmis bir mermiyi klonlama sansi %10.
+|130010|Bir blogu yok ettikten sonra kalan hasari azaltmama sansi %50.
+|130059|Delme sansi %20.
+|130011|Delme basina ek bir delme ekleme sansi %30.
+|130012|carpan sansini %40'a cikarir.
+|130019|Hasar carpanini 2.5 katina cikarir.
+|130013|Hasar carpanini 20 katina cikarir.
+|130014|Mermiyi tam hasarla iki yola bolme sansi %5.
+|130066|Hasar carpanini 3 katina cikarir.
+|130015|Mermiyi tam hasarla uc yola bolme sansi %5.
+|130067|Hasar carpanini 4 katina cikarir.
+|130016|Daha az temel AoE yaricapi, ancak oge basina artirilmis AoE yaricapi.
+|130017|cikti hasari cezasini %3'e dusurur.
+|130018|Sekme basina %17 artirilmis mermi hasari.
+|130060|Ek bir sekme sansi %25.
+|130070|Her sekmeden sonra guclu bir rastgele egri ekler.
+|130021|Sekme basina %17 artirilmis mermi hasari.
+|130061|Ek bir sekme sansi %25.
+|130071|Mermiler gemiden sekebilir.
+|130022|Mermi ne kadar gec yukari donerse o kadar fazla (%60'a kadar) hasar ekler.
+|130062|Mermiler tekrar tekrar yukari doner.
+|130064|Kaydedilen hasarin iki katini mermiye ekler.
+|130023|Mermi hizini surekli olarak minimuma dusurur.
+|130024|Gemiye yakin mermiler 1.5 kat hasarla yukari firlatilir. Mermilerin en az 1 saniye aktif olmasi gerekir.
+|130025|Mermi yonleri ne kadar farkliysa, o kadar fazla (2 katina kadar) hasar ekler.
+|130026|Sekme basina %17 artirilmis mermi hasari.
+|130072|Ek bir sekme sansi %25.
+|130027|Geminin altindaki mermiler yukari dogru itilir ve cizgiye ne kadar yakinlarsa %40 daha fazla hasara sahip olurlar.
+|130028|Her mermi, hasarinin %30'unu sarj cihazina ekler.
+|130029|Mermi ne kadar gec yana donerse o kadar fazla (%60'a kadar) hasar ekler.
+|130063|Mermiler tekrar tekrar yana doner.
+|130030|Daha az temel AoE yaricapi, ancak oge basina artirilmis AoE yaricapi.
+|130031|cikti hasari cezasini %3'e dusurur.
+|130032|Dikdortgen AoE, genis yerine uzundur.
+|130033|carpan havuzu bunun yerine 0,0,1,1,1,1,2,2,3,3 veya 4'tur.
+|130065|0 ise tekrar yuvarlanir, ancak tum carpanlari %15 azaltir.
+|130034|+100 hasar.
+|130040|X, mermi olusturucudan kendisine kadar olan yol uzunlugu olmak uzere 50*X hasar ekler.
+|130035|Hasar carpanini 6 katina cikarir.
+|130036|Yon degistirme acisini azaltir.
+|130037|Yon degistirme acisini artirir.
+|130038|Bunun yerine yon her 0.1 saniyede bir degisir.
+|130039|Donus hasarini %8'e cikarir.
+|130041|Mermi yonlendiricileri kullanilmayan yuva olarak sayilir.
+|130042|Efsanevi ogeler kullanilmayan yuva olarak sayilir.
+|130043|Hasar araligi, bunun yerine 3 hizda x0.9 hasardan 7 hizda x3 hasara kadardir.
+|130044|Yuvalanmislarsa ek bir delme ve sekme turu ogesi sayisi ekler.
+|130045|Mevcut veya onceki merminin daha yuksek hasarini birlestirir.
+|130046|Mermi omrunu yariya indirir ve 0.5 saniye omrun altinda baska bir cift hasar asamasi ekler.
+|130047|Son asamada 4 kat hasar.
+|130069|Tum mermi yonlendiricileri hasari artirir.
+|130048|Dunya haritasinda temizlenen en yuksek asamanin %5'i kadar hasar ekler.
+|130049|Oynanan saat basina +2 hasar. Maks. 400 hasar.
+|130050|Kullanilmayan her firlatma blogu icin +30 ek hasar.
+|130051|Bunun yerine hasar, firlatilan 10 ila 50 mermi arasinda olceklenir.
+|130068|Mermiyi iki kez klonlama sansi %20.
+|140000|Bir gorevi 5 saniyede bitir.
+|140001|Bir gorevi 5 saniyede bitir ve temizle.
+|140002|10'dan fazla hasara sahip bir Mermi olustur.
+|140003|100'den fazla hasara sahip bir Mermi olustur.
+|140004|1000'den fazla hasara sahip bir Mermi olustur.
+|140005|10.000'den fazla hasara sahip bir Mermi olustur.
+|140006|100.000'den fazla hasara sahip bir Mermi olustur.
+|140049|1.000.000'dan fazla hasara sahip bir Mermi olustur.
+|140050|10.000.000'dan fazla hasara sahip bir Mermi olustur.
+|140007|10 gemiye sahip ol.
+|140008|20 gemiye sahip ol.
+|140009|30 gemiye sahip ol.
+|140010|Tum gemilere sahip ol.
+|140011|Gorev 5'in kilidini ac.
+|140012|Gorev 10'un kilidini ac.
+|140013|Gorev 25'in kilidini ac.
+|140014|Gorev 50'nin kilidini ac.
+|140015|Gorev 75'in kilidini ac.
+|140016|Tum gorevleri bitir.
+|140017|10 gorevi temizle.
+|140018|50 gorevi temizle.
+|140019|75 gorevi temizle.
+|140020|Tum gorevleri temizle.
+|140021|5 basarinin kilidini ac.
+|140022|10 basarinin kilidini ac.
+|140023|15 basarinin kilidini ac.
+|140024|20 basarinin kilidini ac.
+|140025|25 basarinin kilidini ac.
+|140026|Basarimlarin cogunun kilidini ac.
+|140027|5 adet 'x basarinin kilidini ac' basarisinin kilidini ac.
+|140028|'5 adet 'x basarinin kilidini ac' basarisinin kilidini ac' basarisinin kilidini ac.
+|140029|Asama 10 dunyayi temizle.
+|140030|Asama 50 dunyayi temizle.
+|140047|Asama 200 dunyayi temizle.
+|140048|Asama 400 dunyayi temizle.
+|140031|100'den fazla blok yok et.
+|140032|1000'den fazla blok yok et.
+|140033|10.000'den fazla blok yok et.
+|140034|100.000'den fazla blok yok et.
+|140035|1.000.000'dan fazla blok yok et.
+|140036|Toplamda 1K'dan fazla para kazan.
+|140037|Toplamda 1M'den fazla para kazan.
+|140038|Toplamda 1G'den fazla para kazan.
+|140039|Toplamda 1T'den fazla para kazan.
+|140040|Toplamda 1P'den fazla para kazan.
+|140041|MAKS paraya ulas.
+|140042|50 ogeye sahip ol.
+|140043|100 ogeye sahip ol.
+|140044|150 ogeye sahip ol.
+|140045|200 ogeye sahip ol.
+|140046|250 ogeye sahip ol.
+|140051|Bir kaptan ise al.
+|140052|Tum kaptanlari ise al.
+|140053|Asama 5 kaptan yeteneginin kilidini ac.
+|140054|Tum kaptanlarin tum yeteneklerinin kilidini ac.
+|150051|Dunya haritasinda Asama 1000'e ulas.
+|150000|Tapinak Elcisi
+|150061|Dunya haritasinda Asama 2000'e ulas.
+|150010|Boslugun Savunucusu
+|150031|Dunya haritasinda Asama 3000'e ulas.
+|150020|Kristal Elcisi
+|150071|Dunya haritasinda Asama 4000'e ulas.
+|150030|Vizyoner
+|150081|Dunya haritasinda Asama 5000'e ulas.
+|150040|Komodor
+|150101|Bir kaptanla Rutbe 250'ye ulas.
+|150050|Bilgili
+|150041|Bir kaptanla Rutbe 500'e ulas.
+|150060|Kavrayisli
+|150091|Bir kaptanla Rutbe 1000'e ulas.
+|150070|ongorulu
+|150111|Tum kaptanlarla maksimum deneyime ulas.
+|150080|Her seyi Bilen
+|150001|Hyperion Tapinagi icin tum gorevleri temizle.
+|150090|Amiral
+|150021|Kristal Konsorsiyumu icin tum gorevleri temizle.
+|150100|Kaptan
+|150011|Bosluk Lejyonu icin tum gorevleri temizle.
+|150110|Astronom
+|160000|Kullanilmis Rider
+|160001|Rider
+|160002|Transporter
+|160003|Rocket
+|160004|Alien Seeker
+|160005|Bus
+|160006|Fighter
+|160007|Family cruiser
+|160008|Pirate Blade
+|160009|Window
+|160010|Backsword
+|160011|Container ship
+|160012|Prototype
+|160013|Practice Launcher
+|160029|Radio Seeker
+|160014|Scout
+|160015|Eco Seeker
+|160016|Spaceshuttle
+|160017|Army Launcher
+|160018|Explorer
+|160019|Luxus-Class
+|160030|Extractor
+|160020|Endprice
+|160021|Eco Destroyer
+|160022|Alien Destroyer
+|160023|Rocket Carrier
+|160024|Mothership
+|160026|Dead Star
+|160025|Cargo ship
+|160027|Archmage
+|160028|Eco Death
+|160031|Transmitter
+|160033|O... iyi eski zamanlar
+|160037|Takipci Seeker
+|160038|Takipci Kutsal Alani
+|160039|Takipci Tapinagi
+|160043|Kristal Mahmuzu
+|160044|Kristal Buyumesi
+|160045|Kristal Taci
+|160046|Bosluk Tohumu
+|160047|Bosluk Bozucusu
+|160048|Bosluk Yagmacisi
+|160032|Shotback
+|160041|Topluluk Sazani
+|160042|Albion-R
+|160040|Rider-Pimped
+|160034|yS Seeker
+|160035|yS Hunter
+|160036|yS Destroyer
+|160055|rC Kesici
+|160056|rC Yikici
+|160057|rC Korkunc
+|160049|Bulut Tropo
+|160050|Bulut Strato
+|160051|Bulut Atmos
+|160052|Uzay Fidesi
+|160053|Uzay caliligi
+|160054|Uzay Istilasi
+|160058|Refla ogutucu
+|160059|Refla Sorfcu
+|160060|Refla Ayna
+|170000|Ilk derme catma gemi. Zar zor ucar ve cehennem kadar yavastir. Ama hey, bedava.
+|170001|Ilk gemi yeniyken boyle gorunuyordu. Performansi hala kotu.
+|170002|Temel, ucuz bir tasima gemisi. uzerine bir top monte edebildiginiz icin sanslisiniz.
+|170003|Super hizli roket. Inis sistemi olmadigi icin ucuza aliyorsunuz.
+|170004|Gosterisli uzayli gemisi. onceki sahibi onu macenta rengine boyamis. Hizli ates eder, ancak cok fazla alani yoktur.
+|170005|Halk ulasimi icin yapilmis. Bu yuzden uzerine silah monte etmenize izin verilmez. Ama bunu benden duymus olmayin.
+|170006|Buyuk sayilarda uretilen ucuz bir avci ucagi. Bu yuzden onu karsilayabilirsiniz.
+|170007|Tomurcuk gibi bir tasarim. Boyle bir seyi ucurmak utanc verici. Ama babacan gobege yakisiyor.
+|170008|Korsan gemisi. Yan tarafinda asiri guclu bir bicagi var. (Tabii ki kullanamazsiniz)
+|170009|Buyuk, mavi tonlu bir penceresi var. Ayrica benzer sesli bir isletim sistemiyle de calisiyor.
+|170010|Hileli bir silah sistemine sahip klasik bir onleme araci. Yuksek kaliteli ve performansli.
+|170011|Kucuk konteyner gemisi. Bir konteynerinde bedava bir mermi olusturucusuyla birlikte gelir.
+|170012|Bir prototip gemi. Onu ucuran son pilot kaza yapti. Ama hala ucuyor, bu yuzden satin alabilirsiniz.
+|170013|Alti adet egitim roketiyle dolu kullanilmis bir askeri gemi. Roketleri havai fiseklerle de degistirebilirsiniz.
+|170029|Yakindaki yildizlardan radyo yayinlari alabilir. Ancak, diger gemilerin radyo sinyalleri gurultu yapabilir.
+|170014|Gercekten hizli kesif gemisi. O kadar hizli ki kendi mermilerini bile geride birakiyor.
+|170015|EcoTec Inc. tarafindan satilir. Sloganlari: Daha yesil bir gelecek icin ekonomik savas.
+|170016|Adini unuttum. Ama icinde cok yer var... bu yuzden uzay mekigi (Spaceshuttle) deniyor.
+|170017|Hala bircok kurulus tarafindan kullanilan silahli bir kargo gemisi.
+|170018|Bir kasif ve arastirma gemisi. Gemideki yer cekimini sorunsuz bir sekilde ayarlayabilir.
+|170019|Super luks ozel gemi. Yolculugu konforlu hale getirmek icin gemide her sey var.
+|170030|Geminin antenleri cevredeki gemilerden bile enerji cikarir. Bu yuzden sizden nefret edebilirler.
+|170020|Bu geminin unlu bir kaptan tarafindan komuta edildigini soylediler. Ama hic duymadim...
+|170021|cevre bilincine sahip bir savas gemisi. Yok edilen gemilerden hurda ve enerji hucrelerini geri donusturur.
+|170022|cilgin uzayli zimbirtisi. Ucmak icin sinirsel baglanti gerektirir ve parlayan motor kismi sagliginiz icin iyi olamaz.
+|170023|Nukleer bomba tasiyicisi. Bir dugmeye basin ve etrafinizdaki dunya patlar. (Guvenlik nedeniyle dugme devre disi birakilmistir)
+|170024|Korsan ana gemisi. Gercek korsanlarin size saldirmasini caydirabilecek tehditkar gorunumlu bir gemi.
+|170026|Gezegenlere olum getirir ve bir yildiz kadar buyuktur. Ugursuz orkestra muzigi dahildir.
+|170025|Galaksiler arasi bir kargo gemisi. Her zaman cok sayida koruma ve silahla buyuk kalabaliklar halinde seyahat eder.
+|170027|Bazen ona basbuyucu gemisi diyorum, cunku ates firtinalari, tipi, simsek... olusturabilir.
+|170028|Mevcut deathstar sinifi gemilere kiyasla yok edilen gezegen basina %35'e kadar enerji tasarrufu saglar.
+|170031|Bu gemi, tum galaksideki herkese mesaj gonderebilir, hatta almak istemeseler bile.
+|170033|Bunu gormemelisiniz. Uzun sureli oyuncular nedenini bilir.
+|170037|Etrafta dolanip sizi takip etmekten baska bir sey yapmaz. Oldukca urkutucu.
+|170038|Uzaydaki bu kutsal alani ziyaret etmenin gercek bir zarari yok, sadece kalici olarak orada kalacaksiniz.
+|170039|Sakin ve cildirtici bir cazibesi var. Tapinaga tapinmak yeni gerceginiz olacak.
+|170043|Kendi kalkan kristaliyle korunan kucuk kesif gemisi.
+|170044|Daha fazla kristal, gemi icin daha fazla kalkan demektir. Umarim ucus sirasinda kopmazlar.
+|170045|Kristallerin nasil calistigini sormuyoruz, sadece bunlardan bir demet gemiye bagliyoruz.
+|170046|Bosluktan donen bir geminin karanliga ilk bakisi.
+|170047|Bu gemiyi hangarda cok uzun sure park etmeyin yoksa irinli bosluk onu bozacaktir.
+|170048|Karanlik siddetle atan, tum maddeyi tuketen doymak bilmez bir agiz.
+|170032|Ah, bu cok aptalca: Kovalamacilara karsi savunmak icin sadece iki silahi arkaya koymuslar.
+|170041|Yaygin uzay sazani. (Bu, bir mermi olusturucuyu yutmus)
+|170042|Elit askeri jet. Hassas vuruslar icin mukemmel. Sadece nereye dogrulttugunuza dikkat edin.
+|170040|Birinci sinif yukseltmelere sahip ilk gemi. Bu seyden sikabileceginiz en fazlasi.
+|170034|Harika gemi, harika istatistikler, harika renkler, harika hiz ve... harika tasarim.
+|170035|Herkes bu yirticilarin sari parlayan bicaklarindan korkar.
+|170036|olumcul bir destroyer sinifi gemi. Bu bicaklar her seyi sari karelere keser.
+|170055|cevik, olumcul kirmizi bir parilti.
+|170056|Hafif bir parilti ve ani bir katliam.
+|170057|Parlayan bicagi her seyi ince ince dogranmis kirmizi carpilara keser.
+|170049|Troposferden zemin gozlemleri icin sessiz bir gemi. cogunlukla bilimsel calismalar icin kullanilir.
+|170050|Parcacik manipulatoru, gezegenlerin ince stratosferinde sonsuza dek suzulmesini saglar.
+|170051|Bir gezegenin atmosferini sarip donusturebilir, onu terraform edebilir veya bir yok olus olayina neden olabilir.
+|170052|Bir gemi icin neden para odeyesiniz ki, basitce onu buyutebilirsiniz. Tamamlayici bir saksi dahildir.
+|170053|Istediginizden daha buyuk buyumeye egilimlidir. Testereyi alin ve o seyi budamaya baslayin!
+|170054|Yayilan kokleri surekli olarak cevreden nemi ve diger nesneleri emer.
+|170058|Uzayda bir baloncuk olusturun ve manyetik dalgalara binin. Kulaga kolay geliyor... degil.
+|170059|Uzayda baloncuklar! Nasil yaptiklarini anlamiyorum ama guzel gorunuyor.
+|170060|Yuzey desenlerinden buyulenen pilotlarin yanasma hatasi orani oldukca yuksektir.
+|180000|Merkur
+|180001|Bay Merkur ucus lisansini 2 yil once aldi ve buna uygun idare eder ucus becerilerine sahip. Acikca gorulen dev bir uzay istasyonuna carparak koca bir tasiyiciyi mahvetmesi disinda buyuk bir hata yapmadi.
+|180002|Sadece kucuk bir gocuktu, sigortamiz var. Rahatlayin!
+|180003|Goktasi carpisma onlemesini aslinda kapatabileceginizi biliyor muydunuz? ... Neden bu kadar stresli gorunuyorsunuz?
+|180004|Evet, yine oldu. Hayir, bu sefer benim hatam degildi!
+|180005|Sagdan once sol, buraya kadar iyi, ama ustten once alt oldugunu biliyor muydunuz? Sanirim bana hic soylemediler.
+|180006|uc puan daha ve ucus lisansim gidiyor :(
+|180007|Tamponlar kullanilmak icindir!
+|180008|Sigorta odedim, bu yuzden sigortayi kullanacagim.
+|180009|Ucus lisansimin onayli bir kopyasini istiyorlar. Hadi ama, O kadar da kotu ucmuyorum.
+|180010|Bugun termodinamigin birinci yasasinin pratik bir gosterimini yaptim. Enerjimi yari acik hangar kapisina aktardim.
+|180011|Sanirim hangar acicisinin pilinin degistirilmesi gerekiyor. Neden bildigimi sormayin.
+|180012|Pratik ucus testinde deneme siniri yok... sorunuza cevap olarak.
+|180013|Aslinda referans sistemi onemlidir. Benim gemimi baslangic noktasi secerseniz, ben sabit duruyordum ve O bana carpti, bu da herkesin ifadesiyle celisirdi.
+|180014|Modern gemiler cok genis... eski kapilar ise degil ve zamana ayak uydurmadilar... Ben gelecegin insaniyim... hata, tasarim ve teknolojinin ilerlemesinde yatiyor.
+|180015|'Evren genis ve bos' peki o zaman az once neye carptim?!?!?!
+|180016|Yeni geminizi tertemiz tutma yukunu sizden aldim.
+|180100|Venus
+|180101|Bayan Venus'un yuksek hirslarina kefilim. Gelmis gecmis en genc kaptanlardan biri ve benden cOK daha deneyimli olmasina ragmen benden daha yuksek rutbede olmasi benim icin sorun degil. Hic sorun degil. ... Gercekten! ...
+|180102|Neden anlamadiginizi anlamiyorum. Kara delik gunes sapani manevrasi, temel seyler.
+|180103|Ders calismayi denediniz mi? Ise yarayabilir.
+|180104|Belki sizin icin bir katilim kupasi getirirler :D
+|180105|Rutbeler abartiliyor, sadece suradan buradan aliniyor... en azindan ben oyle, hehe
+|180106|Kiskanclik nesenin hirsizidir... belki sizi de seneye terfi ettirirler.
+|180107|Maksimum Rutbe var mi? Hic kontrol etmedim. ... Neden bana oyle bakiyorsunuz. Sadece soruyordum.
+|180108|Hayir, arkadasim, yaparak ogrenmek her zaman cozum degildir. Peki ya bir kez gercekten ogrenerek ogrenmeye ne dersiniz!
+|180109|Hala yasa gore terfi oldugunu duydunuz mu... sizin icin hala umut var!
+|180110|Yeni taktik icat et -> Terfi. Yarisma kazan -> Terfi. Sinifinin en iyisi -> Terfi. Her kucuk basari icin veriyorlar, rutbenizin hala neden bu kadar dusuk oldugunu anlamiyorum.
+|180111|Hayir, Rutbenizi artik tek el parmaklarimla sayamazsam sizi dinlemeye baslayacagim.
+|180112|Finans aradi: Terfi ile otomatik maas zammi vermeyi durduruyorlar. Alinti: 'Bayan Venus uzgunum ama sizin durumunuzda bu mali acidan uygulanamaz.' Bu cuzdanimi acitiyor ama egomu memnun ediyor ;)
+|180113|:( Egitmenim bir daha 'cok kolayyyy - hic kasmiyorum bile' dersem beni tokatlayacagini soyledi.
+|180114|Eyvah, en yuksek Rutbenin kritik gorevlere liderlik ettigini soyluyorlar. Benim sadece Rutbe ugruna Rutbe aldigimin farkindalar mi? Bay Neptun... yardim et, lutfen!!!!
+|180200|Dunya
+|180201|Bay Dunya cok yetenekli genc bir kaptan. Kendini tanitacak: . . . Bay Dunya, lutfen telefonunuzu bir saniyeligine birakip birkac kelime soyler misiniz. . . . Neyse, o zaman soylemesin.
+|180202|Hayir, bende SMS yok. Bana siradaki faks mi gondermek istiyorsunuz yoksa ne? Ya da o damgali fiziksel kagit seyi mi?
+|180203|Biliyor musun, ben de sadece sorularinizi Google'da ariyorum. Neden kendiniz denemiyorsunuz?
+|180204|simdi degil... daha sonra degil... numarami neden biliyorsunuz ki?!?
+|180205|...
+|180206|Evet, telefonunuzu gemi sisteminize baglayabilirsiniz. Sosyal gunes sistemi hesabiniza baglayin. Bir tane var, degil mi? Ya da? ... KXTA-5135'te guzel emeklilik evleri oldugunu biliyor musunuz?
+|180207|Evet, holo vericim calisiyor... sadece sisteminizi yeniden baslatin... hala sizi goremiyorum... hayir benim sistemim degil... hayir sizin sisteminize 'bir guncelleme' kurmadim... dun calisiyordu... off
+|180208|'Kabul et'e dokunun. Evet. Hayir, ne yaptigini bilmiyorum. Bir iptal dugmesi var mi? Yani her iki durumda da sadece kabul et'e mi dokunabilirsiniz? O zaman beni ne icin ariyorsunuz ki?!?
+|180209|Bilginize: Gunes kredisi kartinizi bazi esyalari satin almak icin kullandim, en son cikis yapmamistiniz. Tsk, bb. ... ne? Alacaginiz nakit geri odemeyi dusunun.
+|180210|Evet, numaraniz telefonumda sessize alindi. Neden soruyorsunuz?
+|180211|Yeni ogeler icin bir abonelik aldim!!! Sonraki adim: Hangi ogeleri aldigimi ve onlarla ne yapacagimi cozmek... ah evet, sey, yeterince... daha yavas mermi hizi... mhhmmm
+|180212|Neden birden fazla efsanevi oge satin alamiyorum? Bu kurali kim koydu? ... yani daha fazla satin alabilseydim onlari 'efsanevi' yapan ne olurdu diyorsunuz... sanirim turuncu olmalari?
+|180300|Mars
+|180301|Mars'in kisa bir ofkesi var... cok kisa bir ofkesi. Ahhh hayir, yine bir seyler firlatiyor. Cam esyalar degil! Bos ver, zaten biraz cirkindi. Ben supurgeyi alayim, arrrghhh -__-
+|180302|HENuZ IsIMIZ BITMEDI, GERI GEL!!!!!!
+|180303|Benim kisa bir ofkem yok. Ben sakinim. Duydunuz, SAKIN! KIM BoYLE BIR sEY SoYLuYOR KI! GEL YuZuME SoYLE O ZAMAN KIMIN KISA oFKESI VAR GoRELIM!!!!!!
+|180304|Daha satin aldigimizda kirikti. Neden 'taaaabiiiii...'? Bana inanmiyor musunuz yoksa ne?
+|180305|Kavgayi ben baslatmadim ama baslatmamis da sayilmam. Sadece karmasik bir durumdu diyelim.
+|180306|Tamam, gemiyi neden yaktigimi bilmek mi istiyorsunuz? Bos el sabunuyla basladi, biliyor musunuz, ondan sonrasi oldu iste.
+|180307|Yeni bir oz kontrol yontemi buldum. ... evet, ogeleri iceriyor... evet, sonrasinda kirilabilirler... bazi fedakarliklar yapilmali.
+|180308|Bir kez daha 'Sakin ol dostum' dersen seni motor sogutucusuna tikacagim!!!!!!
+|180309|Ben her zaman bagirmiyorum. Ben salatalik gibi sakinim. Baharatli tursu salataligi gibi. Ekstra sarimsak ve pul biberli.
+|180310|Bugun hicbir sey huzurumu bozamaz. Dunyayi umursamiyorum. Huzur ve dinginlik - sUNA DOKUNMAYA CuRET ETME!!! - kinlik. Tam bir Zen. Tamamen sakin dusunceler. Derin yavas nefesler.
+|180311|Yoga yapmaya basladim. Bu beni ya sakinlestirir ya da size tokat atmak icin daha iyi ceviklik verir. Kazan-kazan durumu derim.
+|180400|Jupiter
+|180401|Bayan Jennifer'in adi ne yazik ki Bayan Jupiter degil, ama guzel kaliba uymasi icin onu oyle cagiracagiz ve bunu gormezden gelecegiz. cabuk konusur ve ne dusundugunu kesinlikle bana bildirir.
+|180402|Hayir, yavas olan siz degilsiniz, sadece zaman cok hizli.
+|180403|Neden guluyorsun? ... Ah kahretsin, Jupiter'e tepki verdim. O JENNIFER!!!!
+|180404|K a z a n m a k   i c i n   d a h a   h i z l i   o l m a l i s i n .
+B e n i   t a k i p   e d e b i l i y o r   m u s u n ?
+c o k   m u    h i z l i    k o n u s u y o r u m ?
+|180405|Bir cevher tasiyicisinin tepki suresine sahipsiniz -.-
+|180406|Kara delige ne kadar yaklasirsaniz zamanin o kadar yavasladigini biliyor muydunuz... belki oraya tasinmalisiniz ki 'uzgunum, anlamadim, tekrar eder misiniz lutfen?' cumlesini daha az duyayim.
+|180407|Daha da yavas inerseniz, gezegenin bize donmesini beklemek daha hizli olur.
+|180408|Isik hizi en hizli hizdir, onu gercekten deneyimleyemeyiz. En azindan diger asiri ucu deneyimleyebilirim - sizi izlemeyi.
+|180409|Bugun yavas bir gunumdu. Sabah 5'te kalktim, kosu yaptim, kahvalti hazirladim, evi temizledim, camasir yikadim, sonunda vergilerimi doldurdum ve sonra sabah 6:30'da hak edilmis 15 dakikalik bir mola verdim.
+|180410|'Hizli ve hassas zafere' ... sizin sloganiniz ne? ... Sanirim 'Yavas ve istikrarli hayal kirikligina'.
+|180411|Yasasin, en hizli tamamlanan gorev rekorunu kirdim. Sormadan soyleyeyim: Evet, brifing formlarini bitirmeden geri geldim.
+|180500|Saturn
+|180501|Bay Saturn, liderlik tarzina yansiyan baskin bir karaktere sahiptir. cok katidir ve itaatsizlige izin vermez. Birkac yil once, o - Evet Efendim, kahvenizi getirecegim. Evet Efendim, konusmayi birakacagim.
+|180502|Size bunu yapmanizi soyledim mi? Hayir? O HALDE NEDEN YAPIYORSUNUZ?
+|180503|Adim 1: Size ne yapacaginizi soylerim, siz de yaparsiniz. ... hayir, Adim 2 yok.
+|180504|Siz kendi gorevlerinizi yaparsiniz, ben kendi gorevlerimi yaparim, herkes kendi gorevini yapar, bu kadar basit. 'Ama ben dusundum, ...' diye bir sey yok, gorevlerinizde 'simdi dusun' yaziyor mu... hayir mi? oyle sanmistim.
+|180505|Hayir, kurallar cignenmek icin yapilmamistir. BU GEMIDE BENIM kurallarim ve SIZIN boynunuz icin esit muamele var, dostum!
+|180506|Hayir, benim hizmetcim degilsiniz, kamaromu temizlemek, bir gemiye komuta etmek icin onemli bir beceri olan caliskanligi ogreten bir gorevdir!
+|180507|Ben 'sadece kural uydurmam'... ve uydursam bile, kim kaptan? Siz misiniz? Hayir mi? Iyi o zaman, 'sadece kural uydursam' bile bizim durumumuzda fark etmez, degil mi?
+|180508|Benden sonra tekrar edin: 'Isik hizinin uzerinde hava kilidi kapali kalir', simdi ben sigorta talebini doldururken bunu 100 kez daha tekrar edin.
+|180509|Her zaman en az bir ise yaramaz murettebat uyesiyle kalacaginizi soyluyorlar. Bu iki kisilik koltukta otururken hakli olduklarini hissetmeye basladim.
+|180510|Patronum benden izin alip alamayacagini sordu. Sanirim burada ilginc guc yapilari yarattim.
+|180511|Bugun komik bir hikaye: Yuksek komuta filomu devralmaya geldi. Hayir dedim. Yuksek komuta ayrildi. Yuksek komuta Bay Saturn'un cok korkutucu oldugunu soyledi... cok mu serttim?
+|180512|Sadece onlara baktim ve 'uzgunum, bir daha asla olmayacak' dediler. Onlari azarlamak uzere bile degildim. Sadece kontrol ediyordum. simdi bir seyi mi berbat ettiler yoksa sadece onleyici miydi bilmiyorum. Hmmm.
+|180600|Uranus
+|180601|Itiraf etmeliyim ki Bay Uranus aslinda bir kaptan degil, bir bankaci. Bu gunlerde gemiler zaten zamanin %99'unda otomatik pilotta ucuyor. Endiselenmenize gerek yok, bir seyler ters giderse kilavuza bakin.
+|180602|Parayi yonetebiliyor musunuz? oyleyse, neden harcliginizi artirayim?
+|180603|Hayir, 'cok para kazanmadiniz', dolandirildiniz.
+|180604|Gemi faturalarimizi kontrol ediyordum. Sanirim satin alma kurallariniz icin 'gerekli' kelimesini tanimlamamiz gerekiyor.
+|180605|Varliklar ve yukumlulukler vardir. Basit terimlerle aciklayayim... yani ben ve siz variz...
+|180606|Aha, yani simdi siz kaptan misiniz diyorsunuz? Bu geminin parasini kim oduyor? Sizin paranizi kim oduyor? Kimin parasini harciyorsunuz? Aha, anladim, yani simdi yine ben kaptanim. Bu sorunu cozdugumuze sevindim.
+|180607|Bazi fonlar talep ettiginizi gordum. Reddedildi. ... Hayir, reddetmek icin okumama gerek yok.
+|180608|Siz yeni 'havali bir kaptan ceketi' aldiniz, ben bir gezegen aldim. Iste, fark bu, bu yuzden gemiyi siz ucuruyorsunuz ve finansmandan ben sorumluyum.
+|180609|Ne kadar 'para ve esyaniz' oldugunu sormaniz, tam olarak ne kadar 'para ve esyaniz' oldugunu bilmemeniz gerektiginin nedenidir.
+|180610|'Bunu karsilayabilir miyiz?' yanlis bir soru. 'Bunu karsilayabilir misiniz?' daha uygun ve cevap genellikle - hayir.
+|180611|Bilesik faiz, bilesik tereyagi gibidir... agzimi sulandiriyor.
+|180612|Banka ucretleri cok artirdi. Ben bir is insaniyim, bazen bunun yapilmasi gerektigini biliyorum. Ama ayni zamanda kindarim, bu yuzden simdi baska bir bankanin sahibiyim.
+|180613|ogelerin daha pahali hale geldiginin farkinda misiniz? Sol virajin simdi neden eskisinden 10 kat daha pahali oldugunu hic sormadiniz mi?!? Sanirim burada kaziklaniyorsunuz...
+|180614|Yani ogeleri satin aldiginiz dukkanin garantisi yok, iadesi yok, kotu aciklamalari var, enflasyonist fiyatlari var, kafa karistirici urun yelpazesi var ama SIZ HALA oradan satin almaya devam ediyorsunuz... neden? NEDEN?!?
+|180700|Neptun
+|180701|Bay Neptun herkesten daha fazla gorev uctu. Ona odul vermenin bir anlami yok, cekmeceleri zaten madalyalarla dolu. Isi yapacaktir, siz sadece katkida bulunuyormus gibi yapin ve yolunda durmayin.
+|180702|Endiselenmeyin, gorevi ben hallederim. Bir ay veya bir yil kadar izin almaya ne dersiniz? Biraz rahatlayin.
+|180703|Sizin icin cok onemli bir gorevim var. Ben bu gorevi ucarken bana bir fici vakum getirin. Tamam mi?
+|180704|Bir sonraki dunyaya ucarken eglenceli 'Hicbir seye dokunma yoksa hemen burada istifa ederim' oyunumuzu oynayalim.
+|180705|Sizi gorevlerimizin basarisina daha fazla dahil etmem gerektigini dusundum. Artik iklim kontrolu ve muzikten siz sorumlu olacaksiniz. Bu gercekten buyuk bir sorumluluk.
+|180706|Sizin de bir gemi ucurabileceginizi biliyorum, sadece isimizi bugun ve sag salim bitirmek istiyorum.
+|180707|Evet, bunlarin hepsi benim madalyalarim. Evet, bu kitaplar benim hakkimda. Hayir, onlara dokunamazsiniz. Aslinda hicbir seye dokunmasaniz daha iyi olur. Diger elinizle elinizi tutmaya ne dersiniz?
+|180708|onumuzdeki 18 saat boyunca Buyuk Bosluk'tan gececegiz, size gemiyi ucurmaniz icin ne ideal bir yer, uzun zamandir yapmadiginizi hissettim. Iste, size pratik deneyim kazandirmayi oNEMSIYORUM!
+|180709|Bir iddiaya ne dersiniz? Bahse girerim tum gorev boyunca ve bir sonraki gorevde de, ben onlari ucurmayi bitirene kadar sandalyede sessizce oturamayacaksiniz. Kazanirsaniz, bir daha denemenize izin veririm!
+|180710|Bana bakin, ben 'Profesyonel' denen biriyim. simdi size bakin, evet, sadece bakmaya devam edin.
+|180711|sasirabilirsiniz ama sadece tek bir Bay Neptun var. Yani merkez BuYuK IHTIMALLE HER KRITIK GoREVI benim adima rezerve etme yaklasimlarini yeniden dusunmeli!
+|180712|O kadar cok gorev uctum ki, bir gezegene benim adimi verdiler. Bakin, dogru!
+|190000|Kaba Kuvvet
+|190001|sansli Olan
+|190002|Kucuk cizik
+|190003|Umutsuz ogrenci
+|190004|carpisma Hazirligi
+|190005|cizik Dunya
+|190006|Sigorta Dolandiricisi
+|190007|Sekme Trafigi
+|190008|Zorla Giris
+|190009|carpisma Patlamasi
+|190010|carpisma Panigi
+|190011|carpisma soku
+|190012|Paylasilan Aci
+|190013|Nihai carpisma
+|190014|sanli carpisma
+|190015|Kârli Varlik
+|190016|Hizli Varlik
+|190017|Guclu Varlik
+|190018|Hizli ogrenen
+|190019|Yavas Sinif
+|190020|Ise Yarar Kaybeden
+|190021|Guc Sulugu
+|190022|Basit Guc
+|190023|Paylasilan Varlik
+|190024|Deneyim odemesi
+|190025|Gosterisli Varlik
+|190026|Comert ogretmen
+|190027|Grup ogrenen
+|190028|Bilgi odemesi
+|190029|sanli Varlik
+|190030|caliskan Koleksiyoncu
+|190031|Fanatik Koleksiyoncu
+|190032|Umutsuz Koleksiyoncu
+|190033|Guclu Daginiklik
+|190034|Minimalist Ruya
+|190035|Odaklanmis Daginiklik
+|190036|Efsanevi cesitlilik
+|190037|cesitli cesitlilik
+|190038|Standart cesitlilik
+|190039|Dengeli Karmasa
+|190040|cesitli Karmasa
+|190041|Zarif Karmasa
+|190042|Minimalist Dunya
+|190043|Gosterisli Duzenleme
+|190044|sanli Duzenleme
+|190045|Kârli ofke
+|190046|Guclu ofke
+|190047|Hizli ofke
+|190048|Paylasilan ofke
+|190049|Kotu Durum
+|190050|Hizli Tirmanis
+|190051|Biriken ofke
+|190052|Kaynayan ofke
+|190053|Imkansiz Gerileme
+|190054|Anlamsiz Hedefler
+|190055|Nihai Patlama
+|190056|Kisa ofke
+|190057|Gosterisli cilginlik
+|190058|Paylasilan cilginlik
+|190059|sanli cilginlik
+|190060|Basit cevik
+|190061|Basit Hizli
+|190062|Basit Hiz
+|190063|Hizli Kâr
+|190064|Yavas Kâr
+|190065|Yavas Kazanclar
+|190066|Ortalama Atlet
+|190067|Grup Egzersizi
+|190068|Enerji Birikimi
+|190069|Enerji Patlamasi
+|190070|Seyirme Birikimi
+|190071|Seyirme Patlamasi
+|190072|Grup Antrenmani
+|190073|Flas Kâr
+|190074|Flas Yetenegi
+|190075|sansli Supurme
+|190076|sansli Yumruk
+|190077|Ilk Vurus
+|190078|Yukselen Yetenek
+|190079|Yukselen Para
+|190080|Yukselen Getiriler
+|190081|Nadir Karsilasma
+|190082|Grup Yumrugu
+|190083|ofkeli carpismalar
+|190084|Buyuk Supurme
+|190085|Hesaplanmis carpisma
+|190086|Istikrarli Kazanc
+|190087|Supurucu Yetenekler
+|190088|Nihai olum
+|190089|Nihai Kavga
+|190090|Nakit Geri odeme Yontemi
+|190091|sansli Yatirim
+|190092|Kârli Iflas
+|190093|Zengin Kaybeden
+|190094|Zengin Kazanan
+|190095|Yatirim Tavsiyesi
+|190096|Yasal Hileci
+|190097|Finansal Yetenek
+|190098|Zeki Bankaci
+|190099|Bilesik Faiz
+|190100|Sonsuz Zenginlik
+|190101|Yaygin Nakit Geri odeme
+|190102|Gosterisli Nakit Geri odeme
+|190103|Para Birimi Donusumu
+|190104|sanli Ikramiye
+|190105|Buyuyen oncu
+|190106|Hizli oncu
+|190107|Gosterisli oncu
+|190108|Uygun Temizleme
+|190109|Kârli Gezgin
+|190110|Seyahat Deneyimi
+|190111|Guclu Kasif
+|190112|Gosterisli Kasif
+|190113|Kârli Kasif
+|190114|Nihai Temizleme
+|190115|Sonsuz Kesif
+|190116|Kazanilmis odul
+|190117|Paylasilan Ipuclari
+|190118|unlu Kesif
+|190119|Istikrarli Kesif
+|200000|Bir blokla +1 carpismadan sag cik
+|200001|Bir carpismadan sag cikma sansi %30
+|200002|Paraya uygulanan carpisma cezasi %40 azaltilir
+|200003|Bir blokla +1 carpismadan sag cik ve her 15 saniyede bir 1 carpisma hayatta kalma yetenegini yenile
+|200004|Son 5 saniyede carpisma olmadiysa carpismadan sag cikma sansi %40
+|200005|Tum kaptanlarin paraya uygulanan carpisma cezasi %20 azaltilir
+|200006|Hayatta kalinan her carpisma icin %30 daha fazla para
+|200007|Tum kaptanlarin carpismadan sag cikma sansi %20
+|200008|Hayatta kalinan her carpisma icin +5 temel hasar
+|200009|Hayatta kalinan carpismadan sonra 3 saniye boyunca iki kat hasar
+|200010|Hayatta kalinan carpismadan sonra 3 saniye boyunca iki kat atis hizi
+|200011|Hayatta kalinan carpismadan sonra 3 saniye boyunca %40 minimum ve maksimum hiz
+|200012|Tum kaptanlar bir blokla +1 carpismadan sag cikar
+|200013|Harita hayatta kalinan carpismayla biterse, para ve sari kareler uc katina cikar
+|200014|Harita hayatta kalinan carpismayla biterse, kazanilan sari karelere kadar, hayatta kalinan her carpisma icin 2 kirmizi carpi kazan
+|200015|Rutbe basina ek %2 para kazan
+|200016|Her 50 Rutbe icin +0.2 temel atis hizi kazan
+|200017|Her 10 Rutbe icin ek 2 temel hasar kazan
+|200018|Venus'un terfisi %20 daha ucuzdur
+|200019|En dusuk rutbeli diger kaptan basina 1 ek temel hasar kazan
+|200020|En dusuk rutbeli diger kaptanin Rutbesine esit temel hasar ekleme sansi %10
+|200021|Birlestirilmis diger tum kaptan Rutbelerinin ek %5'ini kazan (terfi maliyetini etkilemez)
+|200022|+20 Rutbe (maliyeti etkilemez)
+|200023|Tum kaptanlar her 10 Rutbe icin ek 1 temel hasar kazanir
+|200024|En az %10 Rutbe sari kare olarak kazanildiginda, ek %30 Rutbe kazanma sansi %30
+|200025|Her 10 Rutbe icin ek %2 daha fazla sari kare kazan
+|200026|Tum kaptanlar, Venus'un degistirilmemis Rutbesinin %5'ini ek Rutbe olarak kazanir (terfi maliyetini etkilemez)
+|200027|Tum kaptan terfileri %10 daha ucuzdur
+|200028|En az %10 Rutbe kirmizi carpi olarak kazanildiginda, ek %30 Rutbe kazanma sansi %30
+|200029|Her 15 Rutbe icin ek %2 daha fazla kirmizi carpi kazan
+|200030|Kullanilan her 3 oge icin +1 temel hasar
+|200031|Kullanilan her oge icin iki kat hasar sansi %1
+|200032|Kullanilan her farkli oge turu icin %5 daha fazla para
+|200033|Kullanilan her farkli oge icin +2 temel hasar
+|200034|Her bos kare icin +0.1 temel atis hizi
+|200035|Tum kaptanlar, en cok kullanilan ogenin her bir ogesi icin %3 hasar kazanir
+|200036|Kullanilan her efsanevi oge icin +10 temel hasar
+|200037|Kullanilan her grup ogesi icin +3 temel hasar
+|200038|Kullanilan her klasik oge icin +1 temel hasar
+|200039|Grup ogesi sayisi = klasik + efsanevi ise %30 sari kare, kirmizi carpi
+|200040|Klasik ve efsanevi ogelerden daha fazla grup ogesi kullaniliyorsa %20 kirmizi carpi
+|200041|Grup ogelerinden daha fazla klasik ve efsanevi oge kullaniliyorsa %20 sari kare
+|200042|Tum kaptanlar her bos kare icin +0.1 temel atis hizi kazanir
+|200043|Kullanilan ayni ogenin en uzun duz yolundaki her oge icin %5 sari kare
+|200044|Kullanilan ayni ogenin en uzun duz yolundaki her oge icin %5 kirmizi carpi
+|200045|Her 10 ofke (yakin zamanda yok edilen bloklar) icin %5 daha fazla para kazan
+|200046|Her 20 ofke (yakin zamanda yok edilen bloklar) icin +1 temel hasar kazan
+|200047|Her 30 ofke (yakin zamanda yok edilen bloklar) icin +1 ceviklik kazan
+|200048|Tum kaptanlar her 10 ofke icin %2 daha fazla para kazanir
+|200049|Haritaya 250 ofke ile basla
+|200050|Her 50 ofke icin %10 atis hizi kazan
+|200051|Saniyede 2 kalici ofke kazan, en fazla 200
+|200052|Minimum ofke 100'dur
+|200053|ofke daha yavas kaybolur
+|200054|Vurusta yok edilen her merminin 1 ofke verme sansi %10
+|200055|ofke limiti 300'den 500'e yukseltilir
+|200056|Yok edilen her blok icin 2 ek ofke kazan
+|200057|>295 ofke varsa, zaten hasar gormus bir blogu yok ederken sari kare kazanma sansi %0.1
+|200058|Tum kaptanlar yakin zamanda yok edilen her 5 blok (ofke) icin +1 temel hasar kazanir
+|200059|>295 ofke varsa, zaten hasar gormus bir blogu yok ederken kirmizi carpi kazanma sansi %0.02
+|200060|ceviklik +4
+|200061|Temel atis hizi +1
+|200062|Mermi hizi +3
+|200063|Harita 10 saniyeden kisa surede biterse %40 para
+|200064|Harita 30 saniye ile 90+ saniye arasinda biterse %0-300 para
+|200065|Harita ilk kez ve 20 saniyeden uzun surede temizlenirse 3 sari kare kazan
+|200066|%20 daha dusuk minimum ve daha hizli maksimum hiza sahip ol
+|200067|Tum kaptanlar +0.3 temel atis hizi kazanir
+|200068|Minimum ve maksimum hiz ilk 20 saniyede %40'a yukselir
+|200069|Ilk 10 saniyede ek %20 daha dusuk minimum ve daha hizli maksimum hiz
+|200070|Temel atis hizi ilk 30 saniye icinde %60'a yukselir
+|200071|Temel atis hizi ilk 5 saniyede %50 artirilir
+|200072|Tum kaptanlar %10 daha dusuk minimum ve daha hizli maksimum hiza sahiptir
+|200073|Harita 10-0 saniye arasinda biterse %0-50 daha fazla sari kare kazan
+|200074|Harita 10-0 saniye arasinda biterse kirmizi carpi olarak %0-10 sari kare kazan
+|200075|Tum bloklara %20 hasar verme sansi %1
+|200076|30 temel hasar ekleme sansi %10
+|200077|Tum bloklar kalirsa 10 temel hasar ekle
+|200078|Gecen saniye basina +1 temel hasar. Bir blok yok edilirse sifirlanir. Maksimum 200
+|200079|Gecen saniye basina %5 daha fazla para. Bir blok yok edilirse sifirlanir. Maksimum %500
+|200080|Gecen saniye basina yok edilen blok basina +1 sari kare icin +%0.5. Blok yok edilirse sifirlanir
+|200081|Hasar, son ortalama surekli hasardan en az 100 kat daha yuksekse atisa x10 hasar
+|200082|Tum kaptanlarin 20 temel hasar ekleme sansi %20
+|200083|Son ortalama hasardan 100 kat daha yuksek atis, normal hasarini sonraki atislara yayar
+|200084|Tum bloklara %50 hasar verme sansi %1
+|200085|1000 temel hasar ekleme sansi %1
+|200086|Kalan bloklara bagli olarak %0-200 temel hasar kazan. (Kalan %1 = 200 hasar)
+|200087|Tum kaptanlarin tum bloklara %20 hasar verme sansi %0.2
+|200088|Kalan bloklara bagli olarak blogu aninda yok etme sansi %0-1, 0.1 saniye bekleme suresi ile
+|200089|Kalan bloklara bagli olarak %0-100 hasar ve %0-100 artirilmis atis hizi ekle
+|200090|onceki ucus parasinin %30'unu bir sonraki basarili ucustan kazan
+|200091|Basarili ucustan sonra parayi iki katina cikarma sansi %30
+|200092|Basarisiz ucustan sonra parayi uc katina cikarma sansi %50
+|200093|Sonuncudan daha az para ile basarili ucus serisi, parayi her seferinde %50 artirir
+|200094|Sonuncudan daha fazla para ile basarili ucus serisi, parayi her seferinde %3 artirir
+|200095|Tum kaptanlar, sonuncudan daha fazla parayla yapilan ucus serisi icin %2 daha fazla para kazanir
+|200096|Toplam paraniz her zaman olmasi gerekenden %20 daha yuksek olacaktir
+|200097|Ucustan sonra %100 para
+|200098|Toplam para carpani %30
+|200099|Basarili ucus basina toplam paraniz uzerinden %0.5 faiz
+|200100|Haritayi temizlerseniz kazanilan parayi uc katina cikarir
+|200101|Tum kaptanlar onceki ucus parasinin %20'sini bir sonraki basarili ucustan kazanir
+|200102|Tum kaptanlar onceki ucus sari karelerinin %10'unu bir sonraki basarili ucustan kazanir
+|200103|Basarili ucustan sonra sari karelerin %5'ini kirmizi carpi olarak kazan
+|200104|Bir ucustan MAKS para kazanirken, 1 sari kare ve 1 kirmizi carpi kazan
+|200105|Her 20 maksimum Asama icin +1 temel hasar
+|200106|Her 100 maksimum Asama icin +0.05 temel atis hizi
+|200107|Her 100 maksimum Asama icin %2 daha fazla sari kare
+|200108|Haritayi temizlerseniz %100 sari kare kazanma sansi %20
+|200109|Haritayi ilk kez temizlediginizde 2 sari kare kazan
+|200110|Bir dunyayi ilk kez temizlemez ancak gecerseniz 1 sari kare kazanin
+|200111|Artan Asama ile temizlenen dunya serisi, temel hasari +1 artirir
+|200112|Artan Asama ile temizlenen dunya serisi, kazanilan sari kareleri %1 artirir
+|200113|Artan Asama ile temizlenen dunya serisi, kazanilan parayi %10 artirir
+|200114|Haritayi temizlerseniz %200 sari kare kazanma sansi %10
+|200115|Tum kaptanlar bir dunyayi ilk kez temizlerse 1 sari kare kazanir
+|200116|onceki ucustaki sari karelerin %30'unu bir sonraki basarili ucustan kazan
+|200117|Tum kaptanlarin haritayi temizlerseniz %100 sari kare kazanma sansi %10
+|200118|Dunya ilk kez temizlenirse maksimum Asamanin %1'ini sari kare olarak kazan (mevcut Asamanin %3'u ile sinirli)
+|200119|Bir dunyayi ilk kez temizlerseniz 2 kirmizi carpi kazan
+|210000|Ilk gorev.
+|210001|Burada sert bloklar var.
+|210002|Haritalar uzun olabilir.
+|210003|Ucus Egitimi: Yana.
+|210004|Herkes icin cizgiler.
+|210005|Daha fazla hasara ihtiyacimiz var.
+|210006|Duvarda bir kirilma daha.
+|210007|Ciddileselim.
+|210008|Ucus Egitimi: Seviye 2.
+|210009|Rahatlatici ciftlik haritasi.
+|210010|Pek de rahatlatici olmayan ciftlik haritasi.
+|210011|Yana atesle ya da guclu atesle.
+|210012|Yolda rastgele seyler.
+|210013|Boyle bir haritayi temizlemek icin daha iyi bir gemiye ihtiyaciniz olabilir.
+|210014|Vadi boyunca yolunuzu bulun.
+|210015|Ah, guzel desen.
+|210016|Daha da guzel desen!
+|210017|Kati seyler. Daha fazla laz0r gerekiyor.
+|210018|cok fazla blok. (Biraz yavas olabilir)
+|210019|Kudretli cekirdek.
+|210020|Hicbir seyi yok etmeye gerek yok.
+|210021|Cennetin kapisi.
+|210022|Sorun bu degil.
+|210023|Deniz kadar genis.
+|210024|Kasaba.
+|210025|sehir.
+|210026|Metropol.
+|210027|Bosluk.
+|210028|Rahatlatici Bosluk.
+|210029|Bire bir.
+|210030|Ona on.
+|210031|Daha fazla desene ihtiyacimiz var.
+|210032|Yeterince desen. simdi basit seyler.
+|210033|Ucus Egitimi: Labirent.
+|210034|Guzel nehir.
+|210035|Bloklarin bloklari.
+|210036|Gevsek paketlenmis bloklar.
+|210037|Gizli gecit.
+|210038|Satranc.
+|210039|Sahip oldugunuz her seyi spamlayin.
+|210040|Zor ya da uzun.
+|210041|Bir haritayi temizlemek ister misiniz?
+|210042|Tamam, temizlemesi daha kolay bir tane.
+|210043|simdi yine zor bir sey.
+|210044|Tepe.
+|210045|Icinden yuru.
+|210046|Varsayilan harita.
+|210047|A.
+|210048|B.
+|210049|C.
+|210050|Kolay delik.
+|210051|Bu bir tuzak!
+|210052|Sesim.
+|210053|Kalp atisi.
+|210054|Beni nehirdeki tekneme geri gotur...
+|210055|... ve artik bagirmayacagim
+|210056|Dikey.
+|210057|Yatay.
+|210058|Yol kapali.
+|210059|Kapali olan yol.
+|210060|Paraya mi ihtiyaciniz var?
+|210061|Zorluga mi ihtiyaciniz var?
+|210062|Peki zorlugun duvarlari?
+|210063|En son ne zaman bir haritayi temizlediniz?
+|210064|Miselyum.
+|210065|cemberler.
+|210066|Gecemezsin!
+|210067|Burasi cehennem.
+|210068|Burasi cennet.
+|210069|Burasi ikisinin arasinda bir sey.
+|210070|Sadece icinden patlat.
+|210071|Bir ev, sokagin ortasinda...
+|210072|Basaramayacaksin.
+|210073|Boss dovusu. Birinci raunt.
+|210074|Boss dovusu. Ikinci raunt.
+|210075|Boss dovusu. ucuncu raunt.
+|210076|Boss dovusu. Final raunt.
+|210077|Kucuk duvar.
+|210078|Cennete giden merdiven.
+|210079|Hayat akisi.
+|210080|En zayif halka.
+|210081|Kudretli blok.
+|210082|Yolunu kazarak cik.
+|210083|Kaleden kac.
+|210084|Yolunuzda 500000 can.
+|210085|Sicak bir bicagin tereyagindan gecmesi gibi.
+|210086|Sikici kasma haritasi.
+|210087|... hayal edilemez Samimiyet ve Guzellik magaralari.
+|210088|Bu sey icin kotu bir konum.
+|210089|Agac.
+|210090|Mantar.
+|210091|Yarip gecmek icin zaman yok.
+|210092|Gemilerin bu kadar guclu olabilecegini hic dusunmemistim.
+|210093|... ya da daha da guclu.
+|210094|Son bir harita hakkinda dusunmeliyim.
+|210095|Belki baska bir desen?
+|210096|Ya da bir nehir... nehirleri severim : )
+|210097|Peki ya 1M canlik bir blok?
+|210098|10M '-' ?
+|210099|Ilk gorevle ayni, sadece bir milyon kat daha zor. simdi sonsuz dunyada sinirlarinizi test edin.
+|220000|Iyi gunler gezgin, sonsuz savunucumuz Titan Hyperion hakkinda konusmak icin bir dakikaniz var mi?
+
+... Hayir mi?
+Tamam, zamaninizi calmayacagim. Biz Hyperion Tapinagi'nin takipcileriyiz ve sizi kardesligimize davet etmek istiyoruz. Inanciniz gucluyse, Hyperion dunyamizdan getirdigimiz teknolojilerimizden bazilarini size sunabiliriz. 
+Bir bakin dostum:
+|220001|Kristal Konsorsiyumu mulklerine giriyorsunuz. Lutfen karakollardan birine kayit yaptirin.
+
+- uye olmak ve isbirligi avantajlarindan yararlanmak istiyorsaniz KK-3721 formunu doldurun.
+- Gecis halindeyken KK-2216 formunu doldurun.
+- Tehlikeli mal sevkiyati icin KK-1841 formunu doldurun.
+- sikayette bulunmak istiyorsaniz KK-8933 formunu kullanin.
+
+uyelik avantajlari asagidan goruntulenebilir:
+|220002|Burasi 8. Dis Birlik Komutani KD-3. Derhal temas kurun, aksi takdirde bunu Bosluk Lejyonu'na karsi bir saldirganlik olarak gorur ve buna gore hareket ederiz.
+
+... Ayrintilar alindi, onaylandi. 8. Dis Lejyon su anda yeni gonulluleri kabul ediyor. Diger her sey icin dogrudan karakol personeliyle gorusun.
+Temas sonu.
+|230000|Geminizin tarayicilari bir asteroit tespit etti. Arastirma yapma zorunlulugu hissettiniz. Tarayicilar, asteroidin karbon-demir alasimindan olusan metalik bir cekirdege sahip oldugunu gosteriyor. Dunya sektorunde bol miktarda bulunan bir metal.
+|230001|Arastirma raporu: [Zirh], blogun canina verilen hasari X yuzdesi kadar azaltir. Hasar azaltimi, kalan zirha bagli olarak dogrusal olarak azalir. [Karbon Zirh] %9.9'dan az hasar azaltimi.
+|230002|Ise yaramaz karbon alasimi! Uzayda bunlardan bolca var. Ancak, kuantum durumunun dogal olmadigini fark ettiniz. Daha fazlasini aramak icin tarayicilarinizi yeniden kalibre ediyorsunuz... [Kalay Zirh] %10 - %19.9 hasar azaltimi.
+|230003|Bu asteroit ayni zamanda toprak metalinden de olusuyor... [Bakir Zirh] %20 - %29.9 hasar azaltimi. Toplanmasi ve faydali malzemelere donusturulmesi oldukca kolay ve bunu yapmaktan memnuniyet duydunuz.
+|230004|Altin damarli bir asteroit... [Altin Zirh] %30 - %39.9 HR. Kisa bir an icin parlak sari rengine hayran kaliyorsunuz ve kuantum para birimlerinin eski Dunya'da bunlari nasil gecersiz kildigini hatirliyorsunuz.
+|230005|Geminizin silahi guclu bir seye carpti... [Titanyum Zirh] %40 - %49.9 HR. Efsaneler, zirhin titanlar tarafindan dovuldugunu ve gecilmez oldugunu soyluyordu. Uzay tasini parcalara ayirmaya devam ediyorsunuz.
+|230006|Takip et...bizi... Bir fisilti duydugunuzu dusundunuz, hayir, bir emir... [Osmiyum Zirh] %50 - %59.9 HR. cok yogun ve dayanikli bir metaldir ve uzay endustrisinde yaygin olarak kullanilir. Hizli para kazanma zamani.
+|230007|Uzayin derinliklerine dogru ilerlerken, yesil pariltilar sacan bir asteroitle karsilasiyorsunuz... [Adamantium Zirh] %60 - %69.9 HR. Bazi unlulerin kemiklerini guclendirmek icin bunlari kullandigini belli belirsiz hatirliyorsunuz. Pahali.
+|230008|Asteroit, silah sisteminize karsi oldukca fazla direnc gosterdi. Arastirdiginizda, eski bir metal alasiminin parcalarini buluyorsunuz. [Orichalcum Zirh] %70 - %79.9 HR. Vay! Koleksiyoncular bu seyler icin para oduyor!
+|230009|calisma zamani. Otomatik Navigasyon sizi bu karanlik uzay bolgesine getirdi, ancak dun gece buraya yolculuk yaptiginizi hatirlamiyorsunuz. Ileride bir sey hafifce mor renkte parliyor... [Galaksiyum Zirh] %80 - %89.9 HR.
+|230010|Vay! Galaksinin en sert metalini kesfederek asiri zengin olacaksiniz. Yeni malzemeden bazi yeni silahlar ve sistemler urettiniz, ancak daha fazlasini arama istegi duydunuz...
+|230011|Geminizin Galaksiyum plakalariyla guclendirilmesinden sonra tatmin edici bir sakinlik hissettiniz. Hicbir uzay korsani ganimetinizi alamaz. Uzakta, bir varlik hissediyorsunuz... [Unicorium Zirh] %90 - %99.9 HR.
+|230012|Baska bir gemi ya da at sandiginiz pembe ve mavi cizgilerle ugursuz bir asteroit. Geminizi ona carpmak anlamina gelse bile, ona ulasma ihtiyaci hissettiniz.
+|230013|Yeni malzemeyi faydali cihazlara donusturuyorsunuz. Tekrar dusundugunuzde, totem benzeri baska bir nesne yaptiginizi fark ettiniz. Etrafa bakinca geminizin onlarla dolu oldugunu anliyorsunuz, tuhaf bir sekilde hatirlamiyorsunuz...
+|230014|Topladiginiz bu metallerle ilgili unutulmus bir arastirma raporu fark ediyorsunuz: Asteroitler... dogal olmayan kuantum durumu... yakindaki organik maddeleri tek tip durumlara yeniden kalibre ediyor... hafiza kaybi... insa et... tapin...
+|230015|Ise yaramaz makaleyi atiyor ve bu tanrisal malzemelerle geminizi insa etmekten memnun kalarak asteroitleri kazmaya geri donuyorsunuz. Geminizi bir tapinaga donusturdunuz ve onun ezici sakinligine teslim oluyorsunuz.
+|230016|Yakinda, geminiz baska bir asteroitten ayirt edilemez hale gelecek. Kendinize bir tapinak insa ettiniz ve onlarla birlikte tapinan sizsiniz. Metal totem takipcileriniz sizi cevreliyor... ve siz sonsuza dek onlarin tanrisisiniz.
+|230017|Hos geldiniz, dindar takipci, Hyperion tapinagina! Yalnizca en dindar takipciler onun sirlarini ogrenecek. [Unobtainium Zirh] %100 HR. Zirhli cekirdegini sokmek icin radyoaktif silahlara ihtiyaciniz olacak.
+|240000|Kristaller... insanligin tuzu. Gemi sevkini saglayan ve pil hucrelerini guclendiren asili sivi halde uretilirler. Kristaller olmadan uzay yolculugu yapan bir medeniyet olmayacaktir.
+|240001|Siz, uzayin derinliklerinde kristal madenciligi yapmakla gorevli baska bir sirket kolesisiniz Kappa. Yillarca kaya kirma, sizi sertlesmis bir profesyonele donusturdu ve bu sadece baska bir rutin operasyon.
+|240002|Yine de, isi bitirip murettebatinizin yanina eve donmek icin sabirsizlaniyorsunuz. Bu sektorde son zamanlarda bir isyan yasandi ve yukselen bir gucun miriltilari var. Bu sadece kazanilacak daha fazla para demektir.
+|240003|Asteroitleri parcalamanin normalden daha uzun surdugune yemin ediyorsunuz. Daha yakindan incelediginizde, bazi kayalarin onlari hasardan koruyan mavi bir parilti ile korundugunu fark ediyorsunuz!
+|240004|[Kalkan] Enerji kalkani, kalkan kapasitesi tukenene kadar blogu hasardan korur. Kalkan kendi kendini yeniler ve kirilmasi icin en az bir hasar ornegi gerekir.
+|240005|Kahrolasi teroristler... diye dusundunuz. Muhtemelen kaynaklarini korumak icin o kalkanlari asteroit kusagi etrafina yerlestirdiler. Kayalari havaya ucurmaya ve kristalleri cikarmaya devam ediyorsunuz.
+|240006|Enerji kalkanlarinin bu kadar hizli yenilenmesini beklemiyordunuz, bu yuzden daha fazla calisma icin bazi kristal bloklari getiriyorsunuz. Kalkaninin kati ham kristal parcalariyla calistigini buldunuz... imkansiz!
+|240007|Asteroitler, kendiliginden koruyucuymus gibi gorunuyor, buyuyen kristal parcalarini etkinlestirerek koruyucu bir plazma uretiyor. Bu plazma, geleneksel silahlara karsi oldukca etkilidir.
+|240008|Sonsuz kristal enerjisi elde edecek kadar gelismis teknolojiye sahip bir terorist grubunun hafife alinmamasi gerekir. Uzun menzilli bir tarama baslatiyorsunuz ama baska gemi bulamiyorsunuz.
+|240009|Tuhaf, uzayin derinliklerinde bile, ara sira sirket madencileri veya savastan kacan askerler beklemeniz gerekir. Bolgede tek kisi oldugunuza ikna olup, kayalari rutin olarak toplamaya basliyorsunuz.
+|240010|Alti gun gecer ve geminiz cikarilmis kristallerle doludur. Geminizin sevk sisteminin normalden daha yavas calistigini fark ediyorsunuz. Eve donus yolculugu cizme zamani.
+|240011|Her gecen gun, geminin sevk sisteminin biraz daha yavas attigini ve kontrollerin biraz uyusuk hissettirdigini fark ediyorsunuz. Bu hizla, kargonuzu eve cekmeniz haftalar surer.
+|240012|Sistemleri manuel olarak kontrol etmek icin muhendislik bolumune gidiyorsunuz: Hucre guc rezervleri... %6 kaldi! Tam donanimli ve yuklu olsa bile, kurumsal gemilerin guc acisindan verimli nakliyeciler oldugu bilinir.
+|240013|Ancak komuta kontrolleri normal sistem parametrelerini gosteriyor ve teshisler hicbir sey tespit etmedi. Ancak, depolama alanindan yayilan hafif mavi bir parilti goruyorsunuz.
+|240014|Kristallerin bulundugu bolme enerji yayiyor, hayir... gemi guc rezerv hucrelerinden enerji emiyor. Enerji yukunu cogaltiyor ve ana gemi gucune geri yayiyor gibi gorunuyor.
+|240015|Artik kristalleri firlatmak icin cok gec! Geminizin tum gucunu bosalttiktan sonra, kristaller enerji yaymayi durdurdu. Geminin motorlarinin ugultusu kesildi ve isiklar azaldi.
+|240016|Geminin kontrol paneline dogru ilerliyorsunuz. Bilgisayarlar acilmiyor. Cihazlarinizdaki sarj da bitiyor. Oturup yasam desteginin de kararip kararmadigini dusunuyorsunuz...
+|240017|Yuksel, kristal Mesih! Uzun zamandir bekliyorduk... ve biz yukselecegiz ve imparatorlugumuzu yagmaci sirketlerden geri alacagiz. Kristal enerjisinin sirlarini ogrenin ve gucleri kendiniz icin kullanin.
+|250000|Arastirma operasyonlarinin 171. gunu... Nadir bir element kesfetmeyi ya da batik arastirma laboratuvarinizi finanse etmenin baska bir yolunu bulmayi umuyorsunuz. Tarayici tarafindan duzensiz sekilli bir asteroit tespit edildi...
+|250001|Gelismis silah sistemlerinizle buzlu kayayi hizla parcalara ayiriyorsunuz. Islem icin kaya parcalarini topladiktan sonra, uzerine tek tip bir desenin kazindigi bir parca fark ediyorsunuz.
+|250002|Arastirma raporu: Kuantum tarihlemesi, kayanin D.o. (Dunya oncesi) 11 milyar yasinda oldugunu gosteriyor. Kayadaki mineral bilesimi belgelenmis olsa da, cokgen desen olusumu dogal gorunmuyor.
+|250003|Sikilmis bir sekilde, kayayi hurda kutusuna atiyorsunuz. Buraya ozel arastirmaniz icin kâr elde etmek icin geldiniz, muzeler icin uzay dinozoru kemikleri kazmak icin degil. Benzer asteroitleri aramak icin tarayicilari ayarliyorsunuz.
+|250004|Ertesi gun, hurda kutusundaki bazi kayalarin dun buldugunuza benzer desenler kazandigini fark ediyorsunuz. Desen size hucreleri hatirlatiyor. Bunlari daha fazla arastirmaya karar veriyorsunuz.
+|250005|Arastirma raporu 2: Kayadaki seluloit oymalar icinde bir anormallik bulundu - hafifce parlayan mor bir pigmentin mikro tabakasi. Atom yapisi, organik bir mutasyon gibi, yavasca deforme oluyor ve yeniden olusuyor.
+|250006|[Mutasyon] Mutant bloklar, silahlarin etkinligini belirli sekillerde azaltir. Blogun caninin dokusu, sahip oldugu mutasyon turunu gosterir.
+|250007|Mutant bloklara carpan mermiler arizalaniyor gibi gorunuyor. [Bosluk Mutasyonu] Mutasyon seviyesine esdeger X kadar delme, AoE veya hasar modifiyecisini kaldirir.
+|250008|Madencilige devam edecekseniz, silahlarinizi bosluk etkilerinden yalitmaniz gerekecek. Ancak, bosluk direnci silah modifikasyonlari yari etkili degildir, ancak hic yoktan iyidir.
+|250009|Haftalar gecer... Bu mutant asteroitlerden bol miktarda kristal ve metal cevheri toplamayi basariyorsunuz. Bu kaynaklar uzayin derinliklerindeki bu asteroitlerde bol miktarda bulunuyor ve iyi bir kâr getirmeli.
+|250010|Kayalari tutmaktan ellerinizdeki siyriklarin hafifce kaydigini, kivrimli yollarinin hucrelere benzeyen bir sekil olusturdugunu fark ediyorsunuz. Daha yakindan incelemek icin laboratuvara kosuyorsunuz.
+|250011|Ertesi hafta: Kollarinizdaki damarlar koyu mor renge dondu, yollari seluloit bir desen sergiliyor. Kollariniz uyusuk, duyulariniz korelmis ve bir fincan sicak koyu kahve tadi hicbir seye benzemiyor.
+|250012|Gunler gectikce, mutasyonlar vucudunuzu yorgunlukla sariyor. Boslukta ezici bir bosluk hissi hissediyorsunuz. Mutasyon icin asi hala bilgisayar tarafindan sentezleniyor.
+|250013|Artik hissedebildiginiz tek sey soguk, sert, seluloit kaya parcalari. Yerde yatarken, bosluk gerceginizi tuketirken bir seyler hissetmek icin caresizce bir kaya yiginina tutunuyorsunuz.
+|250014|Bize katilin... Mesih ile bir olun... geldik...... durdurulamaz bir yikim tsunamisi... tuketin... galaksiyi...!
+|250015|Tam da delilige kaymak uzereyken, gemi ureticisi organiklerdeki bosluk mutasyonlarini notralize edebilen bir asi kapsulu hizla disari cikarir. Son cabalarinizla, igneyi sertce iceri sokarsiniz.
+|250016|Asi, noronlarinizdaki atom kaymalarini stabilize ederek bosluk mutasyonlarini basarili bir sekilde asiliyor, tuhaf bir sekilde kendinizi daha saglikli ve daha canli hissediyorsunuz. Yeni arastirmayi silah sistemlerinize uyguluyorsunuz.
+|250017|Selam, buyuk bilim insani! Bosluk mutasyonlarini asilamadaki devrim niteligindeki calismaniz milyonlari kurtardi. Asilanan bosluk bloklari, tam can, zirh ve kalkanla normal bir bloga donusur.
+|260000|Reklam, Subspace Telecoms tarafindan nazikce desteklenmistir. 1 numarali eglence aginiz.
+|260001|Reklam, Telepuppies Inc. tarafindan sunulmustur. Mutlu t-Kopeginizi bugun sahiplenin.
+|260002|Reklam, Goodbye Kitty tarafindan size ulastirilmistir. Arkadasiniza sicak bir veda gonderin.
+|260003|Reklam, TransPod Corp. tarafindan size bagislanmistir. Evrenin en guvenilir kacis kapsulu.
+|260004|Reklam, MasterCredâ„¢ tarafindan sunulmustur, bu galaksideki tek serbest gecis!
+|260005|Reklam, cakil Partisi tarafindan desteklenmistir. Istismari durdurun! Asteroitlerin de duygulari var.
+|260006|Reklam, Bill Dill tarafindan size ulastirilmistir. Asteroitlere kotu muameleyi sona erdirmek icin simdi oy verin!
+|260007|Reklam, RockPet Inc. tarafindan size bagislanmistir. Bugun ucretsiz bir evcil asteroit sahiplenin.
+|260008|Reklam, Egon Eusk tarafindan desteklenmistir. Bir sonraki tatilinizi yesil Mars gezegenine ayirtin.
+|260009|Reklam, RiderCo. tarafindan desteklenmistir. Rider geminizi herkesle paylasin.
+|260010|Reklam, StarTrackâ„¢ tarafindan size ulastirilmistir. Gizli asteroitleri ve kara delikleri takip edin.
+|260011|Reklam, StarWoes News tarafindan size sunulmustur. Uzay dedikodularini her yerde ortaya cikariyor.
+|260012|Reklam, TerraTech tarafindan size sunulmustur. Asteroitlerinize havali bir makyaj yapin.
+|260013|Uzun harita saatleri mi? Dusuk SK (Sari Kare) ucretleri mi? Acgozlu sirketlere karsi Madencilik Loncasina katilin!
+|260014|Madencilik Loncasi bu mesaji onayliyor. Madenciler birlesin!
+|260015|Yavas gemiler mi? Kucuk alanlar mi? Uzay Loncasi kargo gemilerini bedava yapacak!
+|260016|Uzay Loncasi bu mesaji onayliyor. Uzaycilar birlesin!
+|260017|Dusuk kârlar mi? Tehlikeli uzay mi? Ticaret Loncasi ticaret yapay zekasini ozgurlestirecek!
+|260018|Ticaret Loncasi bu mesaji onayliyor. Tuccarlar birlesin!
+|260019|Tekboynuzlar parlak metaliniz icin oldu. Tum asteroitleri ozgurlestirin! Tekboynuz Loncasina katilin!
+|260020|Tekboynuz Loncasi bu mesaji onayliyor. Gezegen ve tekboynuz severler birlesin!
+|260021|Bu reklam size birinin Transmitter gemisi tarafindan zorla verildi.
+|260022|Bu reklam size yakindaki bir Radio Seeker gemisinden isinlandi.
+|260023|Bu reklam size anonim bir kaynaktan gonderildi.
+|260024|Bu reklam size yakindaki bir asteroitten yonlendirildi.
+|260025|Bu reklam size yakindaki bir yildizdan yonlendirildi.
+|260026|Bu reklam size uzak bir kara delikten iletildi.
+|260027|Reklam: sansli hissediyor musunuz? Spaceballs oynayin ve luks bir VM korveti kazanma sansini yakalayin!
+|260028|Reklam: Joe Pagan podcast'ini dinleyin, gunduz ucun, tum gun, her gun!
+|260029|Reklam: Geminizi bugun EcoTec ile donatin! Daha fazla yikim, daha az fatura.
+|260030|Reklam: Kara bir kedi kayboldu. Miyavlamayi ve karanlik koselerde saklanmayi sever.
+|260031|Reklam: Beyaz bir kopek kayboldu. Havlamayi ve geminin etrafinda kosmayi sever.
+|260032|Reklam: AstroHediye - sevdiklerinize kisisellestirilmis bir asteroit veya gezegen gonderin.
+|260033|Reklam: Buyuk silahlar mi? Uzay kayalarini havaya ucurmaktan hoslaniyor musunuz? Hard Rock Klani sizi simdi istiyor!
+|260034|Reklam: Taze meyvelerinizi NutriPrint ile 3D yazdirin. %30 indirim icin simdi arayin!
+|260035|Reklam: Kullanilmis bir Archmage gemisi satiliyor. Silahlar dahil degil. Yalnizca 800 saat uctu.
+|260036|Reklam: Kullanilmis bir Rider gemisini 100 paraya elden cikarmak istiyoruz. Hala ucuyor.
+|260037|Reklam: Sikici madencilik gunu mu? Mermilerinizi SunSparksâ„¢ ile renklendirin.
+|260038|Reklam: Vahsi bir isik gosterisi icin SunSparksâ„¢ mermilerini silahlariniza uygulayin!
+|260039|Reklaminizin burada olmasini ister misiniz? Bugun Yildizlararasi Yayin Ajansi ile iletisime gecin.
+|260040|Uyari! Bir virus tespit edildi. Lutfen hemen Milkysoft teknik destegini arayin!
+|260041|Archmage geminizi yeniden sarj etmek icin bir elektromanyetik firtinanin yakinina park edin.
+|260042|...zzz.......zzzzzz......*parazit*.....zz......yardim....sekt.....Zeta...
+|260043|KAMU SPOTU: Kullanilmis Rider gemilerini uzaya atmayin. Ceza: 200 SK.
+|260044|KAMU SPOTU: Uzayli gemi motorlarina uzun sure maruz kalmak hickiriklara neden olabilir.
+|260045|KAMU SPOTU: Zeta'nin derin uzayinda bilinmeyen bir enerji artisi tespit edildi. Guvenli ucun.
+|260046|KAMU SPOTU: Lutfen madencilikten sonra uzun omurlu mermilerinizi temizleyin.
+|260047|KAMU SPOTU: Gemi enkazi oranlari artiyor. Lutfen mermi havai fiseklerinizi azaltin.
+|260048|KAMU SPOTU: Gereksiz gemi enkazlarindan kacinmak icin lutfen ucus egitiminizi tamamlayin.
+|260049|KAMU SPOTU: Basibos mermiler asteroitleri kirletiyor, lutfen haritalarinizi temizleyin.
+|260050|Bir Hyperion Tapinagi takipcisi bu reklam araciligiyla konumunuzu ogrenmek istiyor.
+|260051|Hyperion Tapinagi sizi selamliyor ve guvenli yolculugunuz icin sizi izliyor.
+|260052|Artik endiselenmeyin! Bir Hyperion Tapinagi takipcisi yakinda sizinle olacak!
+|260053|Kristal Konsorsiyumu, Zeta derin uzayindaki tum madencileri ise aliyor.
+|260054|Kaydolun ve Kristal Konsorsiyumu ile ucretsiz Mumster enerji iceceginin tadini cikarin.
+|260055|Kristal Konsorsiyumu ile ucretsiz* premium^ saglik** sigortasinin tadini cikarin.
+|260056|Kesfin bilimsel sinirinda Bosluk Lejyonlarina bugun katilin!
+|260057|Hayatta amacsiz mi hissediyorsunuz? Bosluk Lejyonlari ile sanli savas icin kaydolun!
+|260058|Bir gemi alamiyor musunuz? Bosluk Lejyonlarina katilin ve bir Ravager ucurabilirsiniz!
+|260059|Haber: Basibos 100G mermi yerel gezegeni yok etti, pilot hatayi arizali ozel gemiye bagladi.
