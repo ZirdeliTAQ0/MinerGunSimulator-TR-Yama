@@ -1,4 +1,4 @@
-|0|Turkish-ByZırdeli
+|0|Turkish-ByZirdeli
 |1|Çeviri Notları:
 Buradaki ilk satır dosya adıyla eşleşmelidir.
 Metnin biçimlendirmesini koruyun.
@@ -2116,4 +2116,5 @@ Temas sonu.
 |260056|Keşfin bilimsel sınırında Boşluk Lejyonlarına bugün katılın!
 |260057|Hayatta amaçsız mı hissediyorsunuz? Boşluk Lejyonları ile şanlı savaş için kaydolun!
 |260058|Bir gemi alamıyor musunuz? Boşluk Lejyonlarına katılın ve bir Ravager uçurabilirsiniz!
+
 |260059|Haber: Başıboş 100G mermi yerel gezegeni yok etti, pilot hatayı arızalı özel gemiye bağladı.
