@@ -1,4 +1,4 @@
-|0|Turkish-ByZirdeli
+|0|Turkish
 |1|Çeviri Notları:
 Buradaki ilk satır dosya adıyla eşleşmelidir.
 Metnin biçimlendirmesini koruyun.
@@ -2118,3 +2118,4 @@ Temas sonu.
 |260058|Bir gemi alamıyor musunuz? Boşluk Lejyonlarına katılın ve bir Ravager uçurabilirsiniz!
 
 |260059|Haber: Başıboş 100G mermi yerel gezegeni yok etti, pilot hatayı arızalı özel gemiye bağladı.
+
