@@ -1,4 +1,4 @@
-|0|TurkishWNT
+|0|Turkish-byT
 |1|ceviri Notlari:
 Buradaki ilk satir dosya adiyla eslesmelidir.
 Metnin bicimlendirmesini koruyun.
